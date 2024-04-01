@@ -1,6 +1,6 @@
 ---
-title: "Zen demo site"
-baseURL: "https://zen-demo.xdeb.org/"
+title: "Visual Computing Laboratory"
+baseURL: "https://visualcomputing-lab.github.io/zen/"
 theme: "github.com/frjo/hugo-theme-zen/v3"
 languageCode: "en-GB"
 defaultContentLanguage: "en"
@@ -37,7 +37,8 @@ params:
   copyright: '<!--Creative Commons License-->This site is licensed under a <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC-BY-SA 4.0</a> licence.<!--/Creative Commons License-->'
   description: "The zen theme for Hugo demo site."
   dateformat: "2 January, 2006"
-  favicon: "apple-touch-icon.png"
+  favicon: true 
+  logo: "logo.png"
   feedlinks: true
   icon: "apple-touch-icon.png"
   image: "apple-touch-icon.png"
@@ -59,8 +60,9 @@ languages:
     languageName: "English"
     languageCode: "en-GB"
     contentDir: content/en
-  sv:
+  ja:
     weight: 2
-    languageName: "Svenska"
-    languageCode: "sv-SE"
-    contentDir: content/sv
+    languageName: "Japanese"
+    languageCode: "ja"
+    contentDir: content/jp
+

@@ -1,20 +1,17 @@
 ---
-title: The Zen demo site
-date: 2022-08-03T20:48:20+02:00
-
+title: Visual Computing Laboratory at Saitama University
+date: 2024-03-23
+description: home
 ---
 
-This is a demo site for the [Hugo zen theme](https://github.com/frjo/hugo-theme-zen) (GitHub).
+Visual Computing Laboratory (VCL) mainly focuses on developing new algorithms for Computer Graphics. 
+Research topics include rendering (real-time and off-line), physically-based visual simulation, animation, and fabrication.
 
-Source code for [Zen demo site](https://github.com/frjo/zen-demo) (GitHub).
+We are always looking for highly-motivated PhD students working with us. 
+If you are interested in joining our lab, please let me know.
 
-This is the theme I have built to have a good base for all my own Hugo projects. I normally extend it during new projects when I come up with fixes and solutions that I think will be generally useful.
+### News
+- 2024/03/25: site renewal 
 
-I am happy to see that other people also have found it useful.
-
-## Styles
-
-What you see here is the base reset CSS plus the Zen styles. I fully expect most users of this theme will remove the Zen styles. They are a set of styles I happen to often use in my own projects.
-
-To make this theme look like anything you need to add your own custom styling to it. It is a **base** theme after all.
+###
 
