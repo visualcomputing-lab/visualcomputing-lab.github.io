@@ -17,7 +17,7 @@ VCL研究室では博士後期課程 (Ph. D. candidate) の学生を募集して
 - Computer Graphics Forum 2件
 
 ### News
-- 2024/03/xx site renewal 
+- 2024/04/01 site renewal 
 - 2024/03/15 全国大会でM2奥野君と中君が発表しました．
 - 2023/09/18 M2高尾君がVC2023でポスター発表しました．
 - 2023/06/29 M2萬谷君と岩崎がCGVI研究会で発表しました．
