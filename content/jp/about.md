@@ -23,7 +23,7 @@ alternatelocales:
 - Lei Wang (9月入学)
 - 荒川 耀平
 - 中川 皓介
-- [徐 明鋭](https://asurudo.top/s/KPBP46Mcr)
+- 徐 明鋭
 - 張 汀雨
 
 #### B4

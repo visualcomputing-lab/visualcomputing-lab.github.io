@@ -23,7 +23,7 @@ alternatelocales:
 - Lei Wang 
 - Yohei Arakawa
 - Kosuke Nakagawa
-- [Xu Mingrui](https://asurudo.top/s/KPBP46Mcr)
+- Xu Mingrui
 - Zhang Tingyu
 
 #### B4
