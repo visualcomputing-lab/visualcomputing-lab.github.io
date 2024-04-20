@@ -19,6 +19,8 @@ alternatelocales:
     - [DBLP](https://dblp.org/pid/21/3350.htm)
     - [Researchmap](https://researchmap.jp/kei.iwasaki)
     - [KAKEN](https://nrid.nii.ac.jp/ja/nrid/1000090379610/)
+    - kiwasaki __atmark__ mail.saitama-u.ac.jp
+    - keiiwasaki __atmark__ acm.org 
 #### M1
 - Lei Wang (9月入学)
 - 荒川 耀平
