@@ -1,9 +1,9 @@
 ---
 tile:  ""
 date: 2024-03-23
+author: Kei Iwasaki
 ---
 ### Adaptive Irradiance Sampling for Many-Light Rendering of Subsurface Scattering
-![]("/images/tvcg2021.jpg")
 <img src="../img/tvcg2021.jpg">
 
 
