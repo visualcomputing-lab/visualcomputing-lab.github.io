@@ -17,7 +17,7 @@ VCL研究室では博士後期課程 (Ph. D. candidate) の学生を募集して
 - Computer Graphics Forum 2件
 
 ### News
-- 2024/05/22 修了生の引地君を主著とする論文がGraphics Interface 2024に採択されました．
+- 2024/05/22 引地君の論文がGraphics Interface 2024に採択されました．
 - 2024/04/01 site renewal 
 - 2024/03/15 全国大会でM2奥野君と中君が発表しました．
 - 2023/09/18 M2高尾君がVC2023でポスター発表しました．
