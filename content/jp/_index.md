@@ -1,6 +1,7 @@
 ---
 title: Visual Computing Laboratory at Saitama University
-date: 2024-03-23
+date: 2024-05-22
+author: Admin
 description: home
 ---
 
