@@ -21,6 +21,13 @@ description: home
         });
 </script>
 
+<div class="slider">
+<img src="gazou1.jpg" width="500" height="300" alt="">
+<img src="gazou2.jpg" width="500" height="300" alt="">
+<img src="gazou3.jpg" width="500" height="300" alt="">
+<img src="gazou4.jpg" width="500" height="300" alt="">
+</div>
+
 VCL研究室では博士後期課程 (Ph. D. candidate) の学生を募集しております．興味がある方は岩崎までメールでご連絡ください．
 リサーチアシスタント(RA)としての雇用による経済的援助を用意しています．また，特別研究員の申請のお手伝いもします．
 現在までの博士取得者は1名だけで，本人の優秀さに帰するところ大ですが，
