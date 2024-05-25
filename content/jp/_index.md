@@ -22,7 +22,7 @@ description: home
 <img src="./fig/SGA2012.jpg" width="400" height="240" alt="">
 <img src="./fig/EG2012.jpg" width="400" height="240" alt="">
 <img src="./fig/HPG2013.jpg" width="400" height="240" alt="">
-<img src="./fig/PG2016.png" width="400" height="240" alt="">
+<img src="./fig/pg2016.png" width="400" height="240" alt="">
 <img src="./fig/tog2020.png" width="400" height="240" alt="">
 <img src="./fig/tvcg2021.png" width="400" height="240" alt="">
 </div>
