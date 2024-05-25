@@ -4,10 +4,6 @@ date: 2024-05-22
 author: Admin
 description: home
 ---
-
-ビジュアルコンピューティング(VCL)研究室は，コンピュータグラフィックスの研究をしています．
-特に，画像生成（レンダリング），ビジュアルシミュレーション，GPUコンピューティングの研究を行っています．
-
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/bxslider/4.2.12/jquery.bxslider.css">
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
 <script src="https://cdn.jsdelivr.net/bxslider/4.2.12/jquery.bxslider.min.js"></script>
@@ -22,11 +18,13 @@ description: home
 </script>
 
 <div class="slider">
-<img src="gazou1.jpg" width="500" height="300" alt="">
-<img src="gazou2.jpg" width="500" height="300" alt="">
-<img src="gazou3.jpg" width="500" height="300" alt="">
-<img src="gazou4.jpg" width="500" height="300" alt="">
+<img src="./fig/PG10.jpg" width="500" height="300" alt="">
+<img src="./fig/SGA2012.jpg" width="500" height="300" alt="">
+<img src="./fig/tog2020.png" width="500" height="300" alt="">
+<img src="./fig/tvcg2021.png" width="500" height="300" alt="">
 </div>
+ビジュアルコンピューティング(VCL)研究室は，コンピュータグラフィックスの研究をしています．
+特に，画像生成（レンダリング），ビジュアルシミュレーション，GPUコンピューティングの研究を行っています．
 
 VCL研究室では博士後期課程 (Ph. D. candidate) の学生を募集しております．興味がある方は岩崎までメールでご連絡ください．
 リサーチアシスタント(RA)としての雇用による経済的援助を用意しています．また，特別研究員の申請のお手伝いもします．
