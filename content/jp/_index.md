@@ -23,6 +23,8 @@ description: home
 <img src="./fig/tog2020.png" width="500" height="300" alt="">
 <img src="./fig/tvcg2021.png" width="500" height="300" alt="">
 </div>
+
+
 ビジュアルコンピューティング(VCL)研究室は，コンピュータグラフィックスの研究をしています．
 特に，画像生成（レンダリング），ビジュアルシミュレーション，GPUコンピューティングの研究を行っています．
 
