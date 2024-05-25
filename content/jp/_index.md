@@ -8,6 +8,18 @@ description: home
 ビジュアルコンピューティング(VCL)研究室は，コンピュータグラフィックスの研究をしています．
 特に，画像生成（レンダリング），ビジュアルシミュレーション，GPUコンピューティングの研究を行っています．
 
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/bxslider/4.2.12/jquery.bxslider.css">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+<script src="https://cdn.jsdelivr.net/bxslider/4.2.12/jquery.bxslider.min.js"></script>
+
+<script type="text/javascript">
+        $(document).ready(function(){
+            $('.slider').bxSlider({
+                auto: true,
+                pause: 5000,
+            });
+        });
+</script>
 
 VCL研究室では博士後期課程 (Ph. D. candidate) の学生を募集しております．興味がある方は岩崎までメールでご連絡ください．
 リサーチアシスタント(RA)としての雇用による経済的援助を用意しています．また，特別研究員の申請のお手伝いもします．
