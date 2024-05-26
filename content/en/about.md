@@ -13,7 +13,7 @@ alternatelocales:
 ---
 ### Members
 #### Faculty
-- Kei Iwasaki
+- [Kei Iwasaki](./aboutme.md)
     - [google scholar](https://scholar.google.co.jp/citations?user=PD3Wd9kAAAAJ&hl=ja)
     - [DBLP](https://dblp.org/pid/21/3350.htm)
     - [ORCID](https://orcid.org/my-orcid?orcid=0000-0002-5235-536X)
