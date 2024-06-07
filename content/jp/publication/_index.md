@@ -6,7 +6,7 @@ draft: false
 ---
 ### 2024年度
 * K. Iwasaki, Y. Dobashi, A Non-parametric Factor Representation and Editing for Measured Anisotropic Spectral BRDFs, Proc. of Graphics Interface, to appear. 
-* M. Hikichi, M. Sato, K. Iwasaki, Separation of Reflection Components for Measured Spectral BRDFs, Proc. of Graphics Interface, to appear. 
+* M. Hikichi, K. Iwasaki, Separation of Reflection Components for Measured Spectral BRDFs, Proc. of Graphics Interface, to appear. 
 
 
 ### 2023年度

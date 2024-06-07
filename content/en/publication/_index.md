@@ -5,7 +5,7 @@ date: 2024-03-21
 draft: false
 ---
 ### 2024
-* M. Hikichi, M. Sato, K. Iwasaki, [Separation of Reflection Components for Measured Spectral BRDFs](), Graphics Interface 2024.
+* M. Hikichi, K. Iwasaki, [Separation of Reflection Components for Measured Spectral BRDFs](), Graphics Interface 2024.
 * K. Iwasaki, Y. Dobashi, [A Non-parametric Factor Representation and Editing for Anisotropic Spectral Measured BRDFs](), Graphics Interface 2024.
 * M. Sato, K. Iwasaki, Two-stage Optimization for Fitting Parameters of Measured Isotropic Spectral BRDFs, Nicograph International 2024.
 
