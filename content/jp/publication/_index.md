@@ -5,9 +5,9 @@ date: 2024-03-21
 draft: false
 ---
 ### 2024年度
-* K. Iwasaki, Y. Dobashi, A Non-parametric Factor Representation and Editing for Measured Anisotropic Spectral BRDFs, Proc. of Graphics Interface, to appear. 
-* M. Hikichi, K. Iwasaki, Separation of Reflection Components for Measured Spectral BRDFs, Proc. of Graphics Interface, to appear. 
-
+* K. Iwasaki, Y. Dobashi, A Non-parametric Factor Representation and Editing for Measured Anisotropic Spectral BRDFs, Proc. of Graphics Interface, 2024. 
+* M. Hikichi, K. Iwasaki, Separation of Reflection Components for Measured Spectral BRDFs, Proc. of Graphics Interface, 2024. 
+* M. Sato, K. Iwasaki, Two-stage Optimization for Fitting Parameters of Measured Isotropic Spectral BRDFs, Nicograph International 2024.
 
 ### 2023年度
 * Y. Dobashi, N. Ishikawa, K. Iwasaki, [Efficient Visualization of Light Pollution for the Night Sky](https://dl.acm.org/doi/10.1145/3618337), ACM Transactions on Graphics (Proc. of SIGGRAPH ASIA 2023), Vol. 42, No. 6, pp. 219:1--219:11, 2023.
