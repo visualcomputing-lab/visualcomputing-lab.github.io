@@ -40,6 +40,9 @@ VCL研究室では博士後期課程 (Ph. D. candidate) の学生を募集して
 - Computer Graphics Forum 2件
 
 ### News
+- 2024/06/15 Nicograph International 2024でHonorable Mention Awardを受賞しました．
+- 2024/06/14 Nicograph International 2024で佐藤君の研究を発表しました．
+- 2024/06/05 Graphics Interface 2024で2件の発表を行いました．
 - 2024/05/22 引地君の論文がGraphics Interface 2024に採択されました．
 - 2024/04/01 site renewal 
 - 2024/03/15 全国大会でM2奥野君と中君が発表しました．
