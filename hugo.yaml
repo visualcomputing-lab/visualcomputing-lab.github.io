@@ -66,13 +66,13 @@ languages:
           pageRef: "/"
         - Name: "about"
           weight: 2
-          pageRef: "/"
+          pageRef: "/about/"
         - Name: "Publication"
           weight: 4
           pageRef: "/publication/"
         - Name: "Projects"
           weight: 6
-          pageRef: "/project/"
+          pageRef: "/projects/"
         - Name: "Contact"
           weight: 12
           pageRef: "/contact/"
