@@ -60,6 +60,12 @@ languages:
     languageName: "English"
     languageCode: "en-GB"
     contentDir: content/en
+    menu: 
+      main: 
+        -Name: "Home"
+        weight: -10
+          pageRef: "/"
+
   ja:
     weight: 2
     languageName: "Japanese"
