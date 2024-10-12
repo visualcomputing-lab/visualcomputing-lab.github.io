@@ -1,6 +1,6 @@
 ---
-title: "Visual Computing Laboratory"
-baseURL: "https://visualcomputing-lab.github.io/zen/"
+title: "Zen demo site"
+baseURL: "https://zen-demo.xdeb.org/"
 theme: "github.com/frjo/hugo-theme-zen/v4"
 languageCode: "en-GB"
 defaultContentLanguage: "en"
@@ -37,8 +37,7 @@ params:
   copyright: '<!--Creative Commons License-->This site is licensed under a <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC-BY-SA 4.0</a> licence.<!--/Creative Commons License-->'
   description: "The zen theme for Hugo demo site."
   dateformat: "2 January, 2006"
-  favicon: true 
-  logo: "logo.png"
+  favicon: "apple-touch-icon.png"
   feedlinks: true
   icon: "apple-touch-icon.png"
   image: "apple-touch-icon.png"
@@ -60,15 +59,38 @@ languages:
     languageName: "English"
     languageCode: "en-GB"
     contentDir: content/en
-    menu: 
-      main: 
-        -Name: "Home"
-        weight: 2
-        pageRef: "/"
+    menu:
+      main:
+        - Name: "Home"
+          weight: -10
+          pageRef: "/"
+        - Name: "Blog"
+          weight: 2
+          pageRef: "/blog/"
+        - Name: "Podcast"
+          weight: 4
+          pageRef: "/podcast/"
+        - Name: "Products"
+          weight: 6
+          pageRef: "/products/"
+        - Name: "Misc"
+          weight: 8
+          pageRef: "/misc/"
+        - Name: "Search"
+          weight: 10
+          pageRef: "/search/"
+        - Name: "Contact"
+          weight: 12
+          pageRef: "/contact/"
 
-  ja:
+  sv:
     weight: 2
-    languageName: "Japanese"
-    languageCode: "ja"
-    contentDir: content/jp
+    languageName: "Svenska"
+    languageCode: "sv-SE"
+    contentDir: content/sv
+    menu:
+      main:
+        - Name: "Hem"
+          weight: -10
+          pageRef: "/"
 
