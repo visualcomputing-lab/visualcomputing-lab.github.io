@@ -1,5 +1,5 @@
 ---
-title: "Visual Computing Laboratory (VCL)"
+title: "Visual Computing Laboratory"
 baseURL: "https://visualcomputing-lab.github.io"
 theme: "github.com/frjo/hugo-theme-zen/v4"
 languageCode: "en-GB"
@@ -33,7 +33,7 @@ outputs:
   section: ["HTML","RSS", "JSON"]
 
 params:
-  contact: "frjo@xdeb.org"
+  contact: "keiiwasaki@acm.org"
   copyright: '<!--Creative Commons License-->This site is licensed under a <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC-BY-SA 4.0</a> licence.<!--/Creative Commons License-->'
   description: "The zen theme for Hugo demo site."
   dateformat: "2 January, 2006"
@@ -64,15 +64,15 @@ languages:
         - Name: "Home"
           weight: -10
           pageRef: "/"
-        - Name: "Blog"
+        - Name: "about"
           weight: 2
-          pageRef: "/blog/"
-        - Name: "Podcast"
+          pageRef: "/"
+        - Name: "Publication"
           weight: 4
-          pageRef: "/podcast/"
-        - Name: "Products"
+          pageRef: "/publication/"
+        - Name: "Projects"
           weight: 6
-          pageRef: "/products/"
+          pageRef: "/project/"
         - Name: "Misc"
           weight: 8
           pageRef: "/misc/"
@@ -83,11 +83,11 @@ languages:
           weight: 12
           pageRef: "/contact/"
 
-  sv:
+  jp:
     weight: 2
-    languageName: "Svenska"
-    languageCode: "sv-SE"
-    contentDir: content/sv
+    languageName: "Japanese"
+    languageCode: "ja"
+    contentDir: content/jp
     menu:
       main:
         - Name: "Hem"
