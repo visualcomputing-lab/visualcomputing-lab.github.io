@@ -66,7 +66,7 @@ languages:
           pageRef: "/"
         - Name: "about"
           weight: 2
-          pageRef: "_about.md"
+          pageRef: "/"
         - Name: "Publication"
           weight: 4
           pageRef: "/publication/"
