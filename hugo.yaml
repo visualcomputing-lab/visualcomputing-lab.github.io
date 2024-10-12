@@ -63,7 +63,7 @@ languages:
     menu: 
       main: 
         -Name: "Home"
-        weight: -10
+        weight: 2
           pageRef: "/"
 
   ja:
