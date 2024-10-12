@@ -96,5 +96,7 @@ languages:
         - Name: "projects"
           weight: 6
           pageRef: "projects"
-        
+        - Name: "lab"
+          weight: 8
+          pageRef: "lab"
 
