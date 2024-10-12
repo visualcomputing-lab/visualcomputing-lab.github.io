@@ -73,12 +73,6 @@ languages:
         - Name: "Projects"
           weight: 6
           pageRef: "/project/"
-        - Name: "Misc"
-          weight: 8
-          pageRef: "/misc/"
-        - Name: "Search"
-          weight: 10
-          pageRef: "/search/"
         - Name: "Contact"
           weight: 12
           pageRef: "/contact/"
@@ -90,7 +84,10 @@ languages:
     contentDir: content/jp
     menu:
       main:
-        - Name: "Hem"
+        - Name: "Home"
           weight: -10
           pageRef: "/"
+        - Name: "about"
+          weight: 2
+          pageRef: ""
 
