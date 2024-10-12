@@ -64,7 +64,7 @@ languages:
       main: 
         -Name: "Home"
         weight: 2
-          pageRef: "/"
+        pageRef: "/"
 
   ja:
     weight: 2
