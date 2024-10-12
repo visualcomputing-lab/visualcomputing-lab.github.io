@@ -1,6 +1,6 @@
 ---
-title: "Zen demo site"
-baseURL: "https://zen-demo.xdeb.org/"
+title: "Visual Computing Laboratory (VCL)"
+baseURL: "https://visualcomputing-lab.github.io"
 theme: "github.com/frjo/hugo-theme-zen/v4"
 languageCode: "en-GB"
 defaultContentLanguage: "en"
@@ -10,7 +10,7 @@ paginate: 10
 paginatePath: "page"
 rssLimit: 20
 author:
-  name: "Fredrik Jonsson"
+  name: "Kei Iwasaki"
   url: "https://xdeb.org"
 
 markup:
