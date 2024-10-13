@@ -10,3 +10,9 @@ github.com/frjo/hugo-theme-zen/v3 v3.9.0 h1:oUL2110My8dtwlthr25zMLP8ILLm4II2AxbY
 github.com/frjo/hugo-theme-zen/v3 v3.9.0/go.mod h1:hwFwwEwrOoL2Z8t11M3jqQyr0yOp7tpBRnp58S6gPYk=
 github.com/frjo/hugo-theme-zen/v4 v4.1.0 h1:ldOKu+acq/8EZv5tmrQRjM859oUrqW/MzlF13+4FVCU=
 github.com/frjo/hugo-theme-zen/v4 v4.1.0/go.mod h1:ZPkZzwrQ7qIWkmXbG3MC+IZXBPCaEH9gMXubiPVMX64=
+github.com/hugomods/icons v0.6.4 h1:SeDMpN2kjc8mbuXfi8zED4IN5IGZmqJdmmUQr9tIpxw=
+github.com/hugomods/icons v0.6.4/go.mod h1:cIkSvK6W0q6N4U6n9KGz+QfRWQXAW0INd+1P31gPNGg=
+github.com/hugomods/icons/vendors/bootstrap v0.5.7 h1:k2oXx7EOqiqPv9SRb2mtSiPtdWMQUFhtwE3kd0+5QK4=
+github.com/hugomods/icons/vendors/bootstrap v0.5.7/go.mod h1:bTxiIPJ/idHEc35EtvtwSODLpjI+R54BkGdikO3gCmY=
+github.com/hugomods/icons/vendors/font-awesome v0.6.8 h1:wcqovckhWxcYTkOn4JOp2HljVmus+59AwDP9cAYWiMg=
+github.com/hugomods/icons/vendors/font-awesome v0.6.8/go.mod h1:IwJEJX8eFwDFCcxMjFBIgVWlPTf16yFVk78Rc3RUBjs=

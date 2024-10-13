@@ -11,6 +11,7 @@ text-align: left;
 vertical-align: middle;
 }
 </style>
+<script src="https://kit.fontawesome.com/429fe8bdbc.js" crossorigin="anonymous"></script>
 
 <table>
 <tbody><tr>
@@ -20,9 +21,10 @@ vertical-align: middle;
 </td>
 <!--- <td width="640" height="120" vertical-alignvalign="top"> -->
 <td width="80%">
-<a href="./tvcg21/">Adaptive Irradiance Sampling for Many-Light Rendering of Subsurface Scattering </a><br>
+<a href="">Adaptive Irradiance Sampling for Many-Light Rendering of Subsurface Scattering </a><br>
 K. Nabata, K. Iwasaki <br>
 <b>IEEE Transactions on Visualization and Computer Graphics </b> <br>
+<i class="fa-solid fa-file-pdf"></i><i class="fa-solid fa-globe"></i>
 </td>
 </tr>
 
@@ -34,7 +36,9 @@ K. Nabata, K. Iwasaki <br>
 <a href="https://web.wakayama-u.ac.jp/~iwasaki/project/tsrbpt">
 Two-stage Resampling for Bidirectional Path Tracing with Multiple Light Sub-paths</a>
 K. Nabata, K. Iwasaki, Y. Dobashi<br>
-<b> Computer Graphics Forum (Pacific Graphics 2020) </b>
+<b> Computer Graphics Forum (Pacific Graphics 2020) </b><br>
+<a href="./cgf20/"><i class="fa-solid fa-file-pdf"></i></a>
+<a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/cgf.14139"<i class="fa-solid fa-globe"></i></a>
 </td>
 </tr>
 <tr>
