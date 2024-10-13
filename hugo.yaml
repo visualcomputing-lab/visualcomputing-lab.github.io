@@ -6,12 +6,14 @@ languageCode: "en-GB"
 defaultContentLanguage: "en"
 pluralizelisttitles: false
 removePathAccents: true
-paginate: 10
-paginatePath: "page"
+pagination.pagerSize: 10
+pagination.path: "page"
+#paginate: 10
+#paginatePath: "page"
 rssLimit: 20
 author:
   name: "Kei Iwasaki"
-  url: "https://xdeb.org"
+  url: "https://visualcomputing-lab.github.io"
 
 markup:
   goldmark:
