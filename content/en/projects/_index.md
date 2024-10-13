@@ -37,8 +37,7 @@ K. Nabata, K. Iwasaki <br>
 Two-stage Resampling for Bidirectional Path Tracing with Multiple Light Sub-paths</a>
 K. Nabata, K. Iwasaki, Y. Dobashi<br>
 <b> Computer Graphics Forum (Pacific Graphics 2020) </b><br>
-<a href="./cgf20/"><i class="fa-solid fa-file-pdf"></i></a>
-<a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/cgf.14139"<i class="fa-solid fa-globe"></i></a>
+<i class="fa-solid fa-file-pdf"></i><a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/cgf.14139"><i class="fa-solid fa-globe"></i></a>
 </td>
 </tr>
 <tr>

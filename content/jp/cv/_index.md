@@ -11,9 +11,14 @@ weight: 10
 alternatelocales:
   - ja-JP
 ---
+<script src="https://kit.fontawesome.com/429fe8bdbc.js" crossorigin="anonymous"></script>
+
 ### 所属
 - 埼玉大学大学院 理工学研究科 教授 (埼玉大学 工学部 情報工学科) 
 - 連絡先: kiwasaki[atmark]mail.saitama-u.ac.jp 
+<a href="https://scholar.google.com/citations?user=PD3Wd9kAAAAJ&hl=ja"><i class="fa-brands fa-google-scholar"></i></a>
+<a href=""><i class="fa-brands fa-github"></i></a>
+
 
 ### 学歴 
 - 東京大学大学院 新領域創成科学研究科 複雑理工学専攻 博士後期課程 博士(科学) (2001-2004)

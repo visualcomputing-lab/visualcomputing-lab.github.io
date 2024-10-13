@@ -19,7 +19,7 @@ fabrication, and animation.
 
 ### Education
 - The University of Tokyo (2001-2004)
-  - Doctorial Degree of Complexity Science and Engineering
+  - Doctoral Degree of Complexity Science and Engineering
 - The University of Tokyo (1999-2001)
   - Master Degree of Complexity Science and Engineering
 - The University of Tokyo (1995-1999)

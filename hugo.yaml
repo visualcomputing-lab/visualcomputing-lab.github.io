@@ -75,6 +75,9 @@ languages:
         - Name: "Projects"
           weight: 6
           pageRef: "/projects/"
+        - Name: "Contact"
+          weight: 8
+          pageRef: "contact"
         - Name: "CV"
           weight: 12
           pageRef: "/cv/"
@@ -89,21 +92,24 @@ languages:
         - Name: "Home"
           weight: -10
           pageRef: "/"
-        - Name: "about"
+        - Name: "About"
           weight: 2
           pageRef: "about"
-        - Name: "publication"
+        - Name: "Publication"
           weight: 4
           pageRef: "publication"
-        - Name: "projects"
+        - Name: "Projects"
           weight: 6
           pageRef: "projects"
-        - Name: "lab"
+        - Name: "Lab"
           weight: 8
           pageRef: "lab"
+        - Name: "Contact"
+          weight: 10
+          pageRef: "contact/"
         - Name: "CV"
           weight: 12
-          pageRef: "/cv/"
+          pageRef: "cv"
 
 module:
   imports:
