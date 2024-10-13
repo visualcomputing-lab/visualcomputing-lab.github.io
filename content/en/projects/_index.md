@@ -66,7 +66,6 @@ K. Sakurai, Y. Dobashi, K. Iwasaki, T. Nishita <br>
 <img src="./img/pg2016.png" align="center" width="160" height="120">
 </td>
 <td width="80%" height="120">
-<a href="https://web.wakayama-u.ac.jp/~iwasaki/project/manylight/">
 An Error Estimation Framework for Many-Light Rendering</a> <br>
 K. Nabata, K. Iwasaki, Y. Dobashi, T. Nishita <br>
 <b>Computer Graphics Forum (Pacific Graphics 2016)</b>
