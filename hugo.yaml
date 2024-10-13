@@ -101,4 +101,7 @@ languages:
         - Name: "lab"
           weight: 8
           pageRef: "lab"
+        - Name: "CV"
+          weight: 12
+          pageRef: "/cv/"
 
