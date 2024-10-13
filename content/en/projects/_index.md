@@ -47,7 +47,7 @@ K. Nabata, K. Iwasaki, Y. Dobashi<br>
 <td width="80%" height="120">
 Resampling-aware Weighting Functions for Bidirectional Path Tracing using Multiple Light Sub-paths<br>
 <b> ACM Transactions on Graphics (presented at SIGGRAPH 2020) </b>
-<a href="../../pdf/tog2020.pdf"><i class="fa-solid fa-file-pdf"></i></a><a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/cgf.14139"><i class="fa-solid fa-globe"></i></a>
+<a href="../../pdf/tog2020.pdf"><i class="fa-solid fa-file-pdf"></i></a><a href="./tog20/"><i class="fa-solid fa-globe"></i></a>
 </td>
 </tr>
 <tr>
