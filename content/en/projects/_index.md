@@ -33,7 +33,7 @@ K. Nabata, K. Iwasaki <br>
 <img src="./img/pg2020.jpg" width="160" height="120">
 </td>
 <td width="80%" height="120">
-<a href="https://web.wakayama-u.ac.jp/~iwasaki/project/tsrbpt">
+<a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/cgf.14139">
 Two-stage Resampling for Bidirectional Path Tracing with Multiple Light Sub-paths</a>
 K. Nabata, K. Iwasaki, Y. Dobashi<br>
 <b> Computer Graphics Forum (Pacific Graphics 2020) </b><br>
@@ -46,8 +46,8 @@ K. Nabata, K. Iwasaki, Y. Dobashi<br>
 </td>
 <td width="80%" height="120">
 Resampling-aware Weighting Functions for Bidirectional Path Tracing using Multiple Light Sub-paths<br>
-K. Nabata, K. Iwasaki, Y. Dobashi<br>
 <b> ACM Transactions on Graphics (presented at SIGGRAPH 2020) </b>
+<i class="fa-solid fa-file-pdf"></i><a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/cgf.14139"><i class="fa-solid fa-globe"></i></a>
 </td>
 </tr>
 <tr>

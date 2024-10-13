@@ -66,21 +66,21 @@ languages:
         - Name: "Home"
           weight: -10
           pageRef: "/"
-        - Name: "about"
+        - Name: "Member"
           weight: 2
-          pageRef: "/about/"
+          pageRef: "member"
         - Name: "Publication"
           weight: 4
-          pageRef: "/publication/"
+          pageRef: "publication"
         - Name: "Projects"
           weight: 6
-          pageRef: "/projects/"
+          pageRef: "projects"
         - Name: "Contact"
           weight: 8
           pageRef: "contact"
-        - Name: "CV"
-          weight: 12
-          pageRef: "/cv/"
+        #- Name: "CV"
+        #  weight: 12
+        #  pageRef: "/cv/"
 
   jp:
     weight: 2
