@@ -1,7 +1,7 @@
 ---
 title: "Publication"
 subtitle: "publication list"
-date: 2024-03-21
+date: 2024-10-13
 draft: false
 ---
 ### 2024
@@ -9,7 +9,7 @@ draft: false
 
 * K. Iwasaki, Y. Dobashi, [A Non-parametric Factor Representation and Editing for Anisotropic Spectral Measured BRDFs](https://doi.org/10.1145/3670947.3670951), Graphics Interface 2024, Article No. 18, pp. 1-10, 2024.
 
-* M. Sato, K. Iwasaki, Two-stage Optimization for Fitting Parameters of Measured Isotropic Spectral BRDFs, Nicograph International 2024 (Honorable Mention Award).
+* M. Sato, K. Iwasaki, Two-stage Optimization for Fitting Parameters of Measured Isotropic Spectral BRDFs, Nicograph International 2024, pp. 36-40, 2024 (Honorable Mention Award).
 
 ### 2023
 * Y. Dobashi, N. Ishikawa, K. Iwasaki, [Efficient Visualization of Light Pollution for the Night Sky](https://dl.acm.org/doi/10.1145/3618337), ACM Transactions on Graphics (Proc. of SIGGRAPH ASIA 2023), Vol. 42, No. 6, pp. 219:1--219:11, 2023.
