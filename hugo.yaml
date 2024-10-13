@@ -75,9 +75,9 @@ languages:
         - Name: "Projects"
           weight: 6
           pageRef: "/projects/"
-        - Name: "Contact"
-          weight: 12
-          pageRef: "/contact/"
+        #- Name: "Contact"
+        #  weight: 12
+        #  pageRef: "/contact/"
 
   jp:
     weight: 2
