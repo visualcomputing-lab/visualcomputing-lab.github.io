@@ -26,6 +26,7 @@ description: home
 <img src="./fig/tog2020.png" width="400" height="240" alt="">
 <img src="./fig/tvcg2021.png" width="400" height="240" alt="">
 <img src="./fig/gi24npfa.png" width="400" height="240" alt="">
+<img src="./fig/gi24separate.png width="400" height="240" alt="">
 </div>
 
 Visual Computing Laboratory (VCL) mainly focuses on developing new algorithms for Computer Graphics. 
