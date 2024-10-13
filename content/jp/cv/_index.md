@@ -13,23 +13,27 @@ alternatelocales:
 ---
 <script src="https://kit.fontawesome.com/429fe8bdbc.js" crossorigin="anonymous"></script>
 
+
+<a href="https://scholar.google.com/citations?user=PD3Wd9kAAAAJ&hl=ja"><i class="fa-brands fa-google-scholar"></i></a><a href="https://github.com/kiwasaki/"><i class="fa-brands fa-github"></i></a>
+
+
 ### 所属
 - 埼玉大学大学院 理工学研究科 教授 (埼玉大学 工学部 情報工学科) 
 - 連絡先: kiwasaki[atmark]mail.saitama-u.ac.jp 
-<a href="https://scholar.google.com/citations?user=PD3Wd9kAAAAJ&hl=ja"><i class="fa-brands fa-google-scholar"></i></a>
-<a href=""><i class="fa-brands fa-github"></i></a>
-
 
 ### 学歴 
 - 東京大学大学院 新領域創成科学研究科 複雑理工学専攻 博士後期課程 博士(科学) (2001-2004)
 - 東京大学大学院 新領域創成科学研究科 複雑理工学専攻 博士前期課程(1999-2001)
 - 東京大学 理学部 情報科学科 (1995-1999)
 
-### Working Experience
+### 職歴
 - 和歌山大学 システム工学部 准教授 (2010/4-2023/3)
 - 和歌山大学 システム工学部 講師 (2007/4-2010/3)
 - 和歌山大学 システム工学部 助手 (2004/4-2007/3)
 
+### 研究費
+- [科研費](https://nrid.nii.ac.jp/ja/nrid/1000090379610/)
+- [日本の研究.com](https://research-er.jp/researchers/view/144605)
 
 ### 学会活動 (国内)
 - Nicograph International 2024 Program Co-chair

@@ -89,27 +89,27 @@ languages:
     contentDir: content/jp
     menu:
       main:
-        - Name: "Home"
+        - Name: "ホーム"
           weight: -10
           pageRef: "/"
-        - Name: "About"
+        - Name: "メンバー"
           weight: 2
-          pageRef: "about"
-        - Name: "Publication"
+          pageRef: "member"
+        - Name: "発表論文"
           weight: 4
           pageRef: "publication"
-        - Name: "Projects"
+        - Name: "研究紹介"
           weight: 6
           pageRef: "projects"
-        - Name: "Lab"
+        - Name: "研究室"
           weight: 8
           pageRef: "lab"
         - Name: "Contact"
           weight: 10
-          pageRef: "contact/"
-        - Name: "CV"
-          weight: 12
-          pageRef: "cv"
+          pageRef: "prospective/"
+        #- Name: "CV"
+        #  weight: 12
+        #  pageRef: "cv"
 
 module:
   imports:

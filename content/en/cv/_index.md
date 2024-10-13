@@ -11,11 +11,15 @@ weight: 10
 alternatelocales:
   - ja-JP
 ---
+<script src="https://kit.fontawesome.com/429fe8bdbc.js" crossorigin="anonymous"></script>
+
 Kei Iwasaki is currently a professor working at Saitama University,
 Department of Information and Computer Science, Japan.
 His research interests reside in computer graphics, especially for 
 rendering (real-time/offline), visual simulation, parallel computing (CPU/GPU),
 fabrication, and animation.
+<br>
+<a href="https://scholar.google.com/citations?user=PD3Wd9kAAAAJ&hl=ja"><i class="fa-brands fa-google-scholar fa-xl"></i></a><a href="https://github.com/kiwasaki/"><i class="fa-brands fa-github fa-xl"></i></a>
 
 ### Education
 - The University of Tokyo (2001-2004)
