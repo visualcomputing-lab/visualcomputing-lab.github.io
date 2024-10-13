@@ -7,7 +7,6 @@ author: Kei Iwasaki
 
 <img src="../img/cgf20.jpg">
 
-
 #### Abstract
 Bidirectional path tracing (BPT) with multiple importance sampling (MIS)
 is a popular technique for rendering realistic images. Recently, it has been
@@ -26,7 +25,8 @@ treat the change in probability. We demonstrate that our weighting functions
 significantly improve the image quality. We will release a simple version of
 our implementation as open source to ensure reproducibility.
 
-### 
+### Code
+
 
 
 ---
