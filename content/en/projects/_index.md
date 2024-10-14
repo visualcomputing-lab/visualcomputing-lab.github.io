@@ -21,7 +21,7 @@ vertical-align: middle;
 <a href="./tvcg21/">Adaptive Irradiance Sampling for Many-Light Rendering of Subsurface Scattering </a><br>
 K. Nabata, K. Iwasaki <br>
 <b>IEEE Transactions on Visualization and Computer Graphics </b> <br>
-<a href="../pdf/tvcg2021.pdf"><i class="fa-solid fa-file-pdf"></i></a><a href="./tvcg21/"><i class="fa-solid fa-globe"></i></a>
+<a href="../pdf/tvcg2021.pdf"><i class="fa-solid fa-file-pdf"></i></a><a href="./tvcg21.md"><i class="fa-solid fa-globe"></i></a>
 </td>
 </tr>
 
