@@ -4,7 +4,7 @@ date: 2024-10-14
 author: Kei Iwasaki
 ---
 ### 
-<img src="../img/cgf20.jpg">
+<img src="../img/pg2020.jpg">
 
 
 #### Abstract

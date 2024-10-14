@@ -5,7 +5,7 @@ author: Kei Iwasaki
 ---
 ### Resampling-aware Weighting Functions for Bidirectional Path Tracing using Multiple Light Sub-paths
 
-<img src="../img/tog2020.jpg">
+<img src="../img/tog2020.png">
 
 #### Abstract
 Bidirectional path tracing (BPT) with multiple importance sampling (MIS)
