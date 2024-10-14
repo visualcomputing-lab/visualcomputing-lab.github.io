@@ -1,6 +1,6 @@
 ---
 tile:  "RISBPT"
-date: 2100-01-01
+date: 2024-10-14 
 author: Kei Iwasaki
 ---
 ### Resampling-aware Weighting Functions for Bidirectional Path Tracing using Multiple Light Sub-paths
