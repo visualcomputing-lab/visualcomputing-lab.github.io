@@ -12,7 +12,21 @@ vertical-align: middle;
 <script src="https://kit.fontawesome.com/429fe8bdbc.js" crossorigin="anonymous"></script>
 
 <table>
-<tbody><tr>
+<tbody>
+<tr>
+<td width="20%" >
+<img src="./img/siga2023.png" width="160" height="120">
+</td>
+<!--- <td width="640" height="120" vertical-alignvalign="top"> -->
+<td width="80%">
+<a href="https://imelab.sakura.ne.jp/doba/projects/light_pollution_vis/light_pollution_vis.html">Efficient Visualization of Light Pollution for the Night Sky</a><br>
+Y. Dobashi, N. Ishikawa, K. Iwasaki <br>
+<b>ACM Transactions on Graphics (SIGGRAPH ASIA 2023)</b> <br>
+<a href="../pdf/tvcg2021.pdf"><i class="fa-solid fa-file-pdf"></i></a><a href="tvcg2021"><i class="fa-solid fa-globe"></i></a>
+</td>
+</tr>
+
+<tr>
 <td width="20%" >
 <img src="./img/tvcg2021.png" width="160" height="120">
 </td>
@@ -20,7 +34,7 @@ vertical-align: middle;
 <td width="80%">
 <a href="./tvcg2021/">Adaptive Irradiance Sampling for Many-Light Rendering of Subsurface Scattering </a><br>
 K. Nabata, K. Iwasaki <br>
-<b>IEEE Transactions on Visualization and Computer Graphics </b> <br>
+<b>IEEE Transactions on Visualization and Computer Graphics 2022</b> <br>
 <a href="../pdf/tvcg2021.pdf"><i class="fa-solid fa-file-pdf"></i></a><a href="tvcg2021"><i class="fa-solid fa-globe"></i></a>
 </td>
 </tr>
@@ -42,7 +56,8 @@ K. Nabata, K. Iwasaki, Y. Dobashi<br>
 <img src="./img/tog2020.png" align="center" width="160" height="120">
 </td>
 <td width="80%" height="120">
-Resampling-aware Weighting Functions for Bidirectional Path Tracing using Multiple Light Sub-paths<br>
+<a href="https://dl.acm.org/doi/abs/10.1145/3338994">Resampling-aware Weighting Functions for Bidirectional Path Tracing using Multiple Light Sub-paths</a>
+K. Nabata, K. Iwasaki, Y. Dobashi<br>
 <b> ACM Transactions on Graphics (presented at SIGGRAPH 2020) </b>
 <a href="../pdf/tog2020.pdf"><i class="fa-solid fa-file-pdf"></i></a><a href="tog2020"><i class="fa-solid fa-globe"></i></a><a href="https://github.com/kiwasaki/simple_ris_bpt"><i class="fa-brands fa-github-alt"></i></a>
 </td>
