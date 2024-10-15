@@ -188,8 +188,6 @@ Y. Yue, K. Iwasaki, B.Y. Chen, Y. Dobashi, T. Nishita <br>
 <b>Computer Graphics Forum (Pacific Graphics 2009)</b>
 </td>
 </tr>
-
-
 </tbody>
 </table>
 
