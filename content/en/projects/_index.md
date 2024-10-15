@@ -1,6 +1,7 @@
 ---
-title: Research Projects
+title: "Research Projects"
 data: 2024-03-23
+author: Kei Iwasaki
 ---
 <style>
 td {
@@ -51,6 +52,7 @@ K. Nabata, K. Iwasaki, Y. Dobashi<br>
 <a href="../pdf/pg2020.pdf"><i class="fa-solid fa-file-pdf"></i></a><a href="pg2020"><i class="fa-solid fa-globe"></i></a>
 </td>
 </tr>
+
 <tr>
 <td width="20%">
 <img src="./img/tog2020.png" align="center" width="160" height="120">
@@ -62,6 +64,7 @@ K. Nabata, K. Iwasaki, Y. Dobashi<br>
 <a href="../pdf/tog2020.pdf"><i class="fa-solid fa-file-pdf"></i></a><a href="tog2020"><i class="fa-solid fa-globe"></i></a><a href="https://github.com/kiwasaki/simple_ris_bpt"><i class="fa-brands fa-github-alt"></i></a>
 </td>
 </tr>
+
 <tr>
 <td width="20%">
 <img src="./img/sig2018.jpg" align="center" width="160" height="120">
