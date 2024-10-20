@@ -23,7 +23,7 @@ vertical-align: middle;
 <a href="https://imelab.sakura.ne.jp/doba/projects/light_pollution_vis/light_pollution_vis.html">Efficient Visualization of Light Pollution for the Night Sky</a><br>
 Y. Dobashi, N. Ishikawa, K. Iwasaki <br>
 <b>ACM Transactions on Graphics (SIGGRAPH ASIA 2023)</b> <br>
-<a href="../pdf/tvcg2021.pdf"><i class="fa-solid fa-file-pdf"></i></a><a href="../projects_/siga2023"><i class="fa-solid fa-globe"></i></a>
+<a href="../pdf/tog2023_light_pollution.pdf"><i class="fa-solid fa-file-pdf"></i></a><a href="../projects_/siga2023"><i class="fa-solid fa-globe"></i></a>
 </td>
 </tr>
 
