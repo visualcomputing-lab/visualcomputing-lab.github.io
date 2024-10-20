@@ -31,11 +31,9 @@ Y. Dobashi, N. Ishikawa, K. Iwasaki <br>
 <td width="20%" >
 <img src="./img/tvcg2021.png" width="160" height="120">
 </td>
-<!--- <td width="640" height="120" vertical-alignvalign="top"> -->
 <td width="80%">
-<a href="../projects_/tvcg2021/">Adaptive Irradiance Sampling for Many-Light Rendering of Subsurface Scattering </a><br>
-K. Nabata, K. Iwasaki <br>
-<b>IEEE Transactions on Visualization and Computer Graphics 2022</b> <br>
+<a href="../projects_/tvcg2021/">Adaptive Irradiance Sampling for Many-Light Rendering of Subsurface Scattering</a>K. Nabata, K. Iwasaki <br>
+<b>IEEE Transactions on Visualization and Computer Graphics 2022</b>
 <a href="../pdf/tvcg2021.pdf"><i class="fa-solid fa-file-pdf"></i></a><a href="../projects_/tvcg2021"><i class="fa-solid fa-globe"></i></a>
 </td>
 </tr>
@@ -59,8 +57,7 @@ K. Nabata, K. Iwasaki, Y. Dobashi<br>
 </td>
 <td width="80%" height="120">
 <a href="https://dl.acm.org/doi/abs/10.1145/3338994">Resampling-aware Weighting Functions for Bidirectional Path Tracing using Multiple Light Sub-paths</a>
-K. Nabata, K. Iwasaki, Y. Dobashi<br>
-<b> ACM Transactions on Graphics (presented at SIGGRAPH 2020) </b>
+K. Nabata, K. Iwasaki, Y. Dobashi <b>ACM Transactions on Graphics (presented at SIGGRAPH 2020)</b>
 <a href="../pdf/tog2020.pdf"><i class="fa-solid fa-file-pdf"></i></a><a href="../projects_/tog2020"><i class="fa-solid fa-globe"></i></a><a href="https://github.com/kiwasaki/simple_ris_bpt"><i class="fa-brands fa-github-alt"></i></a>
 </td>
 </tr>
