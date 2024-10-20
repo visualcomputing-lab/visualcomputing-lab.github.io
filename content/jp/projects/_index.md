@@ -2,8 +2,6 @@
 title: Research Projects
 data: 2024-03-23
 ---
-
-###
 <style>
 td {
 height: 120px;
@@ -11,10 +9,8 @@ text-align: left;
 vertical-align: middle;
 }
 </style>
-
 <table>
 <tbody>
-
 <tr>
 <td width="20%" >
 <img src="./img/siga2023.png" width="160" height="120">
