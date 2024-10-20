@@ -33,10 +33,10 @@ Y. Dobashi, N. Ishikawa, K. Iwasaki <br>
 </td>
 <!--- <td width="640" height="120" vertical-alignvalign="top"> -->
 <td width="80%">
-<a href="./tvcg2021/">Adaptive Irradiance Sampling for Many-Light Rendering of Subsurface Scattering </a><br>
+<a href="../projects_/tvcg2021/">Adaptive Irradiance Sampling for Many-Light Rendering of Subsurface Scattering </a><br>
 K. Nabata, K. Iwasaki <br>
 <b>IEEE Transactions on Visualization and Computer Graphics 2022</b> <br>
-<a href="../pdf/tvcg2021.pdf"><i class="fa-solid fa-file-pdf"></i></a><a href="tvcg2021"><i class="fa-solid fa-globe"></i></a>
+<a href="../pdf/tvcg2021.pdf"><i class="fa-solid fa-file-pdf"></i></a><a href="../projects_/tvcg2021"><i class="fa-solid fa-globe"></i></a>
 </td>
 </tr>
 
