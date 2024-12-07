@@ -42,6 +42,7 @@ VCLでは博士後期課程 (Ph. D. candidate) の学生を募集しておりま
 - Computer Graphics Forum 2件
 
 ### News
+- 2024/12/06 SIGGRAPH ASIA2024のBOF「テクニカルペーパーを知る」で岩崎が発表しました．
 - 2024/06/15 Nicograph International 2024でHonorable Mention Awardを受賞しました．
 - 2024/06/14 Nicograph International 2024で佐藤君の研究を発表しました．
 - 2024/06/05 Graphics Interface 2024で2件の発表を行いました．
