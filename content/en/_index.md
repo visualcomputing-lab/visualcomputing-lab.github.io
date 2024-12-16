@@ -35,6 +35,7 @@ Research topics include rendering (real-time and off-line), physically-based vis
 #### Prospective Students
 We are always looking for highly-motivated PhD students working with us. 
 If you are interested in joining our lab, please let me know via e-mail (keiiwasaki[atmark]acm.org).
+Currently, our lab does not accept research students (kenkyu-sei/研究生) due to the limited resource. 
 
 ### News
 - 2024/06/05: We have two papers presented at Graphics Interface 2024.
