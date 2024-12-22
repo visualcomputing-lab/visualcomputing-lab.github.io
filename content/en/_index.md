@@ -32,10 +32,11 @@ description: home
 Visual Computing Laboratory (VCL) mainly focuses on developing new algorithms for Computer Graphics. 
 Research topics include rendering (real-time and off-line), physically-based visual simulation, animation, and fabrication.
 
-#### Prospective Students
-We are always looking for highly-motivated PhD students working with us. 
+#### For Prospective Students
+We are always looking for highly-motivated PhD students working with us.
 If you are interested in joining our lab, please let me know via e-mail (keiiwasaki[atmark]acm.org).
-Currently, our lab does not accept research students (kenkyu-sei/研究生) due to the limited resource. 
+
+Currently, our lab does not accept research students (kenkyu-sei/研究生) due to the limited resource.
 
 ### News
 - 2024/06/05: We have two papers presented at Graphics Interface 2024.
