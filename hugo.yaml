@@ -104,7 +104,7 @@ languages:
         - Name: "研究室"
           weight: 8
           pageRef: "lab"
-        - Name: "Contact"
+        - Name: "研究室を志望される方へ"
           weight: 10
           pageRef: "prospective/"
         #- Name: "CV"
