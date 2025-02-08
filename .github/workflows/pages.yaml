@@ -40,11 +40,11 @@ jobs:
       - name: Build
         run: hugo --baseURL "${{ steps.pages.outputs.base_url }}/"
 
-      - name: Upload artifact
-        uses: actions/upload-pages-artifact@v2
+      #- name: Upload artifact
+      #  uses: actions/upload-pages-artifact@v2
         #uses: actions/upload-pages-artifact@v4
-        with:
-          path: ./public
+      #  with:
+      #    path: ./public
 
   deploy:
     environment:
