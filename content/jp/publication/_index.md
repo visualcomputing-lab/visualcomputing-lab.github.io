@@ -6,16 +6,18 @@ draft: false
 ---
 ### 2024年度
 * M. Hikichi, K. Iwasaki, [Separation of Reflection Components for Measured Spectral BRDFs](https://doi.org/10.1145/3670947.3670953), Graphics Interface 2024, Article No. 20, pp. 1-9, 2024.
-
 * K. Iwasaki, Y. Dobashi, [A Non-parametric Factor Representation and Editing for Anisotropic Spectral Measured BRDFs](https://doi.org/10.1145/3670947.3670951), Graphics Interface 2024, Article No. 18, pp. 1-10, 2024.
-
 * M. Sato, K. Iwasaki, Two-stage Optimization for Fitting Parameters of Measured Isotropic Spectral BRDFs, Nicograph International 2024, pp. 36-40, 2024 (Honorable Mention Award).
+
+* 小築知弥, 岩崎 慶, 2種類の基底を用いた複数画像を入力とするSVBRDF予測モデルの提案, 映像表現芸術科学フォーラム2025.  
+* 松田理沙, 岩崎 慶, 糸手続き型モデルを用いたSGGXパロメータの推定, 映像表現芸術科学フォーラム2025.  
+* 鏑木嘉人, 岩崎 慶, 3D Gaussian Splattingにおける透明材質への編集手法, 映像表現芸術科学フォーラム2025.  
 
 
 ### 2023年度
 * Y. Dobashi, N. Ishikawa, K. Iwasaki, [Efficient Visualization of Light Pollution for the Night Sky](https://dl.acm.org/doi/10.1145/3618337), ACM Transactions on Graphics (Proc. of SIGGRAPH ASIA 2023), Vol. 42, No. 6, pp. 219:1--219:11, 2023.
 
-* 岩崎 慶,異方性計測スペクトラルBRDFのノンパラメトリック表現, 情報処理学会第190回cgvi研究会, 2023/06/29.
+* 岩崎 慶, 異方性計測スペクトラルBRDFのノンパラメトリック表現, 情報処理学会第190回cgvi研究会, 2023/06/29.
 * 萬谷 響, 岩崎 慶, 帯域調和関数分解を用いた球光源の球面調和係数の解析的勾配計算, 情報処理学会第190回cgvi研究会, 2023/06/29.
 * 藤 真太郎, 佐藤 周平, 岩崎 慶, 土橋 宜典, 2次元のBRDF分布の補間による金属表面上の傷のデザインシステム, 情報処理学会第191回cgvi研究会, 2023/09/16.
 * 藤 真太郎, 佐藤 周平, 岩崎 慶, 土橋 宜典, BRDFの補間による金属表面上の傷のインタラクティブなデザイン. VC2023, ポスター P3, 2023/09/18.
