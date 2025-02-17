@@ -9,9 +9,9 @@ draft: false
 * K. Iwasaki, Y. Dobashi, [A Non-parametric Factor Representation and Editing for Anisotropic Spectral Measured BRDFs](https://doi.org/10.1145/3670947.3670951), Graphics Interface 2024, Article No. 18, pp. 1-10, 2024.
 * M. Sato, K. Iwasaki, Two-stage Optimization for Fitting Parameters of Measured Isotropic Spectral BRDFs, Nicograph International 2024, pp. 36-40, 2024 (Honorable Mention Award).
 
-* 小築知弥, 岩崎 慶, 2種類の基底を用いた複数画像を入力とするSVBRDF予測モデルの提案, 映像表現芸術科学フォーラム2025.  
-* 松田理沙, 岩崎 慶, 糸手続き型モデルを用いたSGGXパラメータの推定, 映像表現芸術科学フォーラム2025.  
-* 鏑木嘉人, 岩崎 慶, 3D Gaussian Splattingにおける透明材質への編集手法, 映像表現芸術科学フォーラム2025.  
+* 小築知弥, 岩崎 慶, 2種類の基底を用いた複数画像を入力とするSVBRDF予測モデルの提案, 映像表現・芸術科学フォーラム2025, 講演番号31, 2025/03/10.  
+* 松田理沙, 岩崎 慶, 糸手続き型モデルを用いたSGGXパラメータの推定, 映像表現・芸術科学フォーラム2025, 講演番号40, 2025/03/10.  
+* 鏑木嘉人, 岩崎 慶, 3D Gaussian Splattingにおける透明材質への編集手法, 映像表現・芸術科学フォーラム2025, 講演番号46, 2025/03/10.  
 
 
 ### 2023年度
