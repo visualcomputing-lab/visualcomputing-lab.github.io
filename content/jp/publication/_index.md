@@ -10,7 +10,7 @@ draft: false
 * M. Sato, K. Iwasaki, Two-stage Optimization for Fitting Parameters of Measured Isotropic Spectral BRDFs, Nicograph International 2024, pp. 36-40, 2024 (Honorable Mention Award).
 
 * 小築知弥, 岩崎 慶, 2種類の基底を用いた複数画像を入力とするSVBRDF予測モデルの提案, 映像表現芸術科学フォーラム2025.  
-* 松田理沙, 岩崎 慶, 糸手続き型モデルを用いたSGGXパロメータの推定, 映像表現芸術科学フォーラム2025.  
+* 松田理沙, 岩崎 慶, 糸手続き型モデルを用いたSGGXパラメータの推定, 映像表現芸術科学フォーラム2025.  
 * 鏑木嘉人, 岩崎 慶, 3D Gaussian Splattingにおける透明材質への編集手法, 映像表現芸術科学フォーラム2025.  
 
 
