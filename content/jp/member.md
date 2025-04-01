@@ -21,18 +21,26 @@ alternatelocales:
     - [KAKEN](https://nrid.nii.ac.jp/ja/nrid/1000090379610/)
     - kiwasaki __atmark__ mail.saitama-u.ac.jp
     - keiiwasaki __atmark__ acm.org 
-#### M1
+#### M2
 - Lei Wang (9月入学)
 - 荒川 耀平
 - 中川 皓介
 - [徐 明鋭](https://asurudo.top/s/KPBP46Mcr)
 - 張 汀雨
 
-#### B4
+#### M1
 - 小築 知弥 
-- 池内 順哉
 - 松田 理沙
 - 鏑木 嘉人
+- 三浦 康司
+
+#### B4
+- 山本 健吾
+- 羽田 明日香
+- 酒井 瑛士
+- 宮内 智志
+- 梅原 慶哉
+ 
 
 ### 住所 
 〒338-8570 埼玉県さいたま市桜区下大久保255 <br>
