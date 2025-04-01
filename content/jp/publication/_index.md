@@ -1,9 +1,14 @@
 ---
 title: "業績"
 subtitle: "publication list"
-date: 2024-03-21
+date: 2025-04-01
 draft: false
 ---
+
+### 2025年度
+* xx, xx, xx
+* xx, xx, xx
+
 ### 2024年度
 * M. Hikichi, K. Iwasaki, [Separation of Reflection Components for Measured Spectral BRDFs](https://doi.org/10.1145/3670947.3670953), Graphics Interface 2024, Article No. 20, pp. 1-9, 2024.
 * K. Iwasaki, Y. Dobashi, [A Non-parametric Factor Representation and Editing for Anisotropic Spectral Measured BRDFs](https://doi.org/10.1145/3670947.3670951), Graphics Interface 2024, Article No. 18, pp. 1-10, 2024.
