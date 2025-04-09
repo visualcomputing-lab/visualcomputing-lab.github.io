@@ -6,7 +6,7 @@ draft: false
 ---
 
 ### 2025年度
-* xx, xx, xx
+* L. Wang, K. Iwasaki, Importance Sampling of BCSDF Derivatives, Eurographics Short Paper, 2025.
 * xx, xx, xx
 
 ### 2024年度
