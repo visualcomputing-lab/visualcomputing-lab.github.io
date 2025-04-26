@@ -39,6 +39,7 @@ If you are interested in joining our lab, please let me know via e-mail (keiiwas
 Currently, our lab does not accept research students (kenkyu-sei/研究生) due to the limited resource.
 
 ### News
+- 2025/04/10: We have one short paper accepted at Eurographics 2025.
 - 2024/06/05: We have two papers presented at Graphics Interface 2024.
 - 2024/03/25: We have renewed our website.
 
