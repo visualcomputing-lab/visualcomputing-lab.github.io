@@ -6,8 +6,11 @@ languageCode: "en-GB"
 defaultContentLanguage: "en"
 pluralizelisttitles: false
 removePathAccents: true
-pagination.pagerSize: 10
-pagination.path: "page"
+pagination:
+  pagerSize: 10
+  path: page
+#pagination.pagerSize: 10
+#pagination.path: "page"
 #paginate: 10
 #paginatePath: "page"
 rssLimit: 20
