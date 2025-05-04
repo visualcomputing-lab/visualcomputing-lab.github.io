@@ -15,6 +15,19 @@ vertical-align: middle;
 <tbody>
 <tr>
 <td width="20%" >
+<img src="./img/sig2025.png" width="160" height="120">
+</td>
+<!--- <td width="640" height="120" vertical-alignvalign="top"> -->
+<td width="80%">
+Spherical Lighting with Spherical Harmonics Hessian<br>
+K. Iwasaki, Y. Dobashi
+<a href="../pdf/tog2023_light_pollution.pdf"><i class="fa-solid fa-file-pdf"></i></a><a href="../projects_/siga2023"><i class="fa-solid fa-globe"></i></a><br>
+<b>SIGGRAPH Conference Proceedings 2025</b> <br>
+</td>
+</tr>
+
+<tr>
+<td width="20%" >
 <img src="./img/siga2023.png" width="160" height="120">
 </td>
 <!--- <td width="640" height="120" vertical-alignvalign="top"> -->
