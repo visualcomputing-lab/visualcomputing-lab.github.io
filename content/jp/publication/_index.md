@@ -1,13 +1,15 @@
 ---
 title: "業績"
 subtitle: "publication list"
-date: 2025-04-01
+date: 2025-05-04
 draft: false
 ---
 
 ### 2025年度
-* L. Wang, K. Iwasaki, Importance Sampling of BCSDF Derivatives, Eurographics Short Paper, 2025.
-* xx, xx, xx
+
+* K. Iwasaki, Y. Dobashi, Spherical Lighting with Spherical Harmonics Hessian, Proc. of SIGGRAPH Conference Papers 2025, xx:1-xx-10, 2025.
+
+* L. Wang, K. Iwasaki, Importance Sampling of BCSDF Derivatives, Eurographics Short Paper, 2025. 
 
 ### 2024年度
 * M. Hikichi, K. Iwasaki, [Separation of Reflection Components for Measured Spectral BRDFs](https://doi.org/10.1145/3670947.3670953), Graphics Interface 2024, Article No. 20, pp. 1-9, 2024.
