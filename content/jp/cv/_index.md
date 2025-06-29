@@ -36,6 +36,9 @@ alternatelocales:
 - [日本の研究.com](https://research-er.jp/researchers/view/144605)
 
 ### 学会活動 (国内)
+- Visual Computing 2025 プログラム委員/論文選定委員
+- 画像電子学会第53回年次大会　実行委員長
+- Nicograph International 2025 Program Chair
 - Nicograph International 2024 Program Co-chair
 - Visual Computing 2024 プログラム委員
 - Visual Computing 2023 プログラム委員
