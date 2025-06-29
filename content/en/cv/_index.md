@@ -41,7 +41,7 @@ Please see [KAKENHI](https://nrid.nii.ac.jp/en/nrid/1000090379610/)
 ### Academic Activities
 #### Program Committee 
 - Computer Graphics International 2017-
-- Pacific Graphics 2016, 2022
+- Pacific Graphics 2016, 2022, 2025
 - International Symposium on Visual Computing 2017-
 - Mathematical Progress in Expressive Image Synthesis 2015, 2016
 
