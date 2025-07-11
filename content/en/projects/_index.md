@@ -19,7 +19,8 @@ vertical-align: middle;
 </td>
 <!--- <td width="640" height="120" vertical-alignvalign="top"> -->
 <td width="80%">
-Spherical Lighting with Spherical Harmonics Hessian<br>
+<a href="../projects_/sig2025">
+Spherical Lighting with Spherical Harmonics Hessian</a><br>
 K. Iwasaki, Y. Dobashi
 <a href="./../../pdf/sig2025.pdf"><i class="fa-solid fa-file-pdf"></i></a><a href="../projects_/sig2025"><i class="fa-solid fa-globe"></i></a><br>
 <b>SIGGRAPH Conference Proceedings 2025</b> <br>
