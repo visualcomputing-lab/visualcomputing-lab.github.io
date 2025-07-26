@@ -6,7 +6,7 @@ draft: false
 ---
 
 ### 2025年度
-* K. Iwasaki, Y. Dobashi, Spherical Lighting with Spherical Harmonics Hessian, Proc. of SIGGRAPH Conference Papers 2025, xx:1-xx-10, 2025.
+* K. Iwasaki, Y. Dobashi, [Spherical Lighting with Spherical Harmonics Hessian](https://doi.org/10.1145/3721238.3730689), Proc. of SIGGRAPH Conference Papers 2025, pp. 35:1-35:10, 2025.
 * L. Wang, K. Iwasaki, Importance Sampling of BCSDF Derivatives, Eurographics Short Paper, 2025. 
 
 ### 2024年度
