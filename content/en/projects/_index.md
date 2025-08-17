@@ -23,6 +23,7 @@ vertical-align: middle;
 Spherical Lighting with Spherical Harmonics Hessian</a><br>
 K. Iwasaki, Y. Dobashi
 <a href="./../../pdf/sig2025.pdf"><i class="fa-solid fa-file-pdf"></i></a><a href="../projects_/sig2025"><i class="fa-solid fa-globe"></i></a><br>
+<a href="https://github.com/kiwasaki/shh_code_generator"><i class="fa-brands fa-github-alt"></i></a><br> 
 <b>SIGGRAPH Conference Proceedings 2025</b> <br>
 </td>
 </tr>
