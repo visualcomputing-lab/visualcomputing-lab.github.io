@@ -9,6 +9,7 @@ draft: false
 * K. Iwasaki, Y. Dobashi, [Spherical Lighting with Spherical Harmonics Hessian](https://doi.org/10.1145/3721238.3730689), Proc. of SIGGRAPH Conference Papers 2025, pp. 33:1-33:10, 2025.
 * L. Wang, K. Iwasaki, Importance Sampling of BCSDF Derivatives, Eurographics Short Paper, 2025.
 
+* 小松 英彦，馬場 美香，金成 慧，岩崎 慶，サル下頭側皮質ニューロンにおける物体の透明感知覚と関係する物理要因の表現，第48回日本神経科学大会，2P-332, 2025/07/25.
 * Lei Wang，岩崎 慶，逆レンダリングのためのBCSDF導関数の重点的サンプリング，画像電子学会第53回年次大会，S6-4, 2025/08/27．
 * Zhang Tingyu，岩崎 慶，拡散マイクロフレーク位相関数の球面調和関数表現，画像電子学会第53回年次大会，S6-5, 2025/08/27．
 * 岩崎 慶，BRDFのパラメータフィッティングに関する一検討，画像電子学会第53回年次大会，PO-11, 2025/08/26．
