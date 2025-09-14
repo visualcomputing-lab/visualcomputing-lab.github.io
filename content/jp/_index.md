@@ -43,6 +43,7 @@ VCLでは博士後期課程 (Ph. D. candidate) の学生を募集しておりま
 - Computer Graphics Forum 2件
 
 ### News
+- 2025/09/10 Visual Computing 2025において，M2徐君と張さんがポスター発表しました．徐君は学生奨励賞を受賞しました．
 - 2025/04/29 SIGGRAPH 2025 Technical Paper Conference Trackに採択されました．
 - 2025/04/10 M2Wang君の研究がEurographics Short Paperに採択されました．
 - 2025/03/10 B4小築君・松田さん・鏑木君が映像表現芸術フォーラムで発表しました．小築君と鏑木君が優秀発表賞(口頭)を受賞しました．
