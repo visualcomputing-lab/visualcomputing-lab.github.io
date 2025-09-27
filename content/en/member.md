@@ -20,7 +20,6 @@ alternatelocales:
     - kiwasaki _at_ mail.saitama-u.ac.jp 
   
 #### M2
-- Lei Wang 
 - Yohei Arakawa
 - Kosuke Nakagawa
 - [Xu Mingrui](https://asurudo.top/s/KPBP46Mcr)
