@@ -44,7 +44,7 @@ VCLでは博士後期課程 (Ph. D. candidate) の学生を募集しておりま
 
 ### News
 
-- 2025/10/07 SIGGRAPH ASIA 2025 Technical CommunicationsにM2徐君の研究が採択されました．
+- 2025/10/07 M2徐君の研究がSIGGRAPH ASIA 2025 Technical Communicationsに採択されました．
 - 2025/09/10 Visual Computing 2025において，M2徐君と張さんがポスター発表しました．徐君は学生奨励賞を受賞しました．
 - 2025/04/29 SIGGRAPH 2025 Technical Paper Conference Trackに採択されました．
 - 2025/04/10 M2Wang君の研究がEurographics Short Paperに採択されました．
