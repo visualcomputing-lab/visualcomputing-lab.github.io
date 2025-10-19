@@ -10,7 +10,6 @@ draft: false
 * M. Xu, K. Iwasaki, Double/Triple-Axis Moments for Real-time Polygonal Light Shading, SIGGRAPH ASIA Technical Communications, 2025 (to appear).
 * K. Iwasaki, Y. Dobashi, [Spherical Lighting with Spherical Harmonics Hessian](https://doi.org/10.1145/3721238.3730689), Proc. of SIGGRAPH Conference Papers 2025, pp. 33:1-33:10, 2025.
 * L. Wang, K. Iwasaki, Importance Sampling of BCSDF Derivatives, Eurographics Short Paper, 2025.
-
 * 小松 英彦，馬場 美香，金成 慧，岩崎 慶，サル下頭側皮質ニューロンにおける物体の透明感知覚と関係する物理要因の表現，第48回日本神経科学大会，2P-332, 2025/07/25.
 * Lei Wang，岩崎 慶，逆レンダリングのためのBCSDF導関数の重点的サンプリング，画像電子学会第53回年次大会，S6-4, 2025/08/27．
 * Zhang Tingyu，岩崎 慶，拡散マイクロフレーク位相関数の球面調和関数表現，画像電子学会第53回年次大会，S6-5, 2025/08/27．
@@ -20,12 +19,11 @@ draft: false
 
 ### 2024年度
 * M. Hikichi, K. Iwasaki, [Separation of Reflection Components for Measured Spectral BRDFs](https://doi.org/10.1145/3670947.3670953), Graphics Interface 2024, Article No. 20, pp. 1-9, 2024.
-* K. Iwasaki, Y. Dobashi, [A Non-parametric Factor Representation and Editing for Anisotropic Spectral Measured BRDFs](https://doi.org/10.1145/3670947.3670951), Graphics Interface 2024, Article No. 18, pp. 1-10, 2024.
+* K. Iwasaki, Y. Dobashi, [A Non-parametric Factor Representation and Editing for Anisotropic Spectral Measured BRDFs](https://doi.org/10.1145/3670947.3670951), Graphics Interface 2024, Article No. 18, pp. 1-10, 2024. 
 * M. Sato, K. Iwasaki, Two-stage Optimization for Fitting Parameters of Measured Isotropic Spectral BRDFs, Nicograph International 2024, pp. 36-40, 2024 (Honorable Mention Award).
-
-* 小築知弥, 岩崎 慶, 2種類の基底を用いた複数画像を入力とするSVBRDF予測モデルの提案, 映像表現・芸術科学フォーラム2025, 講演番号31, 2025/03/10 **(優秀発表賞(口頭))**.  
-* 松田理沙, 岩崎 慶, 糸手続き型モデルを用いたSGGXパラメータの推定, 映像表現・芸術科学フォーラム2025, 講演番号40, 2025/03/10.  
-* 鏑木嘉人, 岩崎 慶, 3D Gaussian Splattingにおける透明材質への編集手法, 映像表現・芸術科学フォーラム2025, 講演番号46, 2025/03/10 **(優秀発表賞(口頭))**.  
+* 小築知弥, 岩崎 慶, 2種類の基底を用いた複数画像を入力とするSVBRDF予測モデルの提案, 映像表現・芸術科学フォーラム2025, 講演番号31, 2025/03/10 **(優秀発表賞(口頭))**. 
+* 松田理沙, 岩崎 慶, 糸手続き型モデルを用いたSGGXパラメータの推定, 映像表現・芸術科学フォーラム2025, 講演番号40, 2025/03/10. 
+* 鏑木嘉人, 岩崎 慶, 3D Gaussian Splattingにおける透明材質への編集手法, 映像表現・芸術科学フォーラム2025, 講演番号46, 2025/03/10 **(優秀発表賞(口頭))**. 
 
 
 ### 2023年度
