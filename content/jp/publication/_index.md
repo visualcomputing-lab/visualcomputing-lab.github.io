@@ -68,21 +68,19 @@ draft: false
 * 大西和輝, 岩崎慶, スペクトルを考慮した計測BRDFの圧縮表現, 情報処理学会第83回全国大会, 7Y-04, 2021/03. 
 
 ### 2019年度
-* H. Sakai, K. Nabata, S. Yasuaki, K. Iwasaki, [A Method for Estimating the Errors in Many-light Rendering with Supersampling](https://link.springer.com/article/10.1007/s41095-019-0137-0), Computational Visual Media, Vol. 5, pp. 1--10, 2019. 
-* N. Podee, N. Max, K. Iwasaki, Y. Dobashi, [Temporal and Spatial Anti-aliasing for Rendering Reflection on a Water Surface](https://dl.acm.org/citation.cfm?id=3338599), SIGGRAPH 2019 Posters, pp. 50:1--50:2, 2019. 
+* H. Sakai, K. Nabata, S. Yasuaki, K. Iwasaki, [A Method for Estimating the Errors in Many-light Rendering with Supersampling](https://link.springer.com/article/10.1007/s41095-019-0137-0), Computational Visual Media, Vol. 5, pp. 1--10, 2019.
+* N. Podee, N. Max, K. Iwasaki, Y. Dobashi, [Temporal and Spatial Anti-aliasing for Rendering Reflection on a Water Surface](https://dl.acm.org/citation.cfm?id=3338599), SIGGRAPH 2019 Posters, pp. 50:1--50:2, 2019.
 * H. Okuno, K. Iwasaki, [Binary Space Partitioning Visibility Tree for Polygonal Light Rendering](https://dl.acm.org/doi/10.1145/3355088.3365153), SIGGRAPH ASIA 2019 Technical Briefs, pp. 79--82, 2019.
 * K. Nabata, K. Iwasaki, Y. Dobashi, [Resampling-aware Weighting Functions for Bidirectional Path Tracing using Multiple Light Sub-paths](https://doi.org/10.1145/3338994), ACM Transactions on Graphics, Vol. 39, No. 2, Article No. 15, pp. 15:1--15:11, 2020.
 * 名畑豪祐, 岩崎慶, 多光源レンダリング法のための画像生成の効率を考慮した可視関数の確率的評価, 情報処理学会論文誌, Vol. 60, No. 6, pp. 1238-1246, 2019. **特選論文**
-
 * N. Podee, N. Max, K. Iwasaki, Y. Dobashi, Anti-aliasing for Rendering Reflection on Water Surface, 情報処理学会 第174回cgvi研究会, pp. 1-4, 2019/06.
 * N. Podee, N. Max, K. Iwasaki, Y. Dobashi, Circular Gaussian anti-aliasing for rendering reflection on water surface, VC2019  poster, 2019/06.
 * 奥野弘貴, 岩崎慶, バイナリ空間分割木を用いた多角形光源による影の計算, 情報処理学会 第176回cgvi研究会, pp. 1-6, 2019/11 **(優秀研究発表賞)**. 
 
 ### 2018
-* K. Sakurai, Y. Dobashi, K. Iwasaki, T. Nishita, [Fabricating Reflectors for Displaying Multiple Images](https://dl.acm.org/citation.cfm?id=3201400), ACM Transactions on Graphics (SIGGRAPH2018), Vol. 37, No. 4, pp. 158:1--158:10, 2018. 
+* K. Sakurai, Y. Dobashi, K. Iwasaki, T. Nishita, [Fabricating Reflectors for Displaying Multiple Images](https://dl.acm.org/citation.cfm?id=3201400), ACM Transactions on Graphics (SIGGRAPH2018), Vol. 37, No. 4, pp. 158:1--158:10, 2018.
 * J. Tsuruga, K. Iwasaki, [Sawtooth Cycle Revisited](https://onlinelibrary.wiley.com/doi/abs/10.1002/cav.1836), Computer Animation and Virtual Worlds (CASA2018), Vol. 29, No. 3--4, pages e1836, 2018.
 * H. Sakai, K. Nabata, S. Yasuaki, K. Iwasaki, [Error Estimation for Many-light Rendering with Supersampling](https://dl.acm.org/doi/10.1145/3283254.3283264), SIGGRAPH ASIA 2018 Technical Briefs, pp. 14:1--14:4, 2018.
-
 * 酒井広和, 名畑豪祐, 安明真哉, 岩崎慶, スーパーサンプリングを用いた多光源レンダリングのための誤差推定法, VC2018, 2018/6.
 * 元辻香苗,名畑豪祐,岩崎慶, 微細構造における相互反射を考慮したバラのBRDF計算, 画像関連連合会秋季大会, 2018/11.
 * 岩崎陸人, 名畑豪祐, 酒井広和, 岩崎慶, 光沢反射を考慮した多光源レンダリングのための誤差推定法, 情報処理学会第81回全国大会, 1V04, 2019/3.
@@ -91,7 +89,6 @@ draft: false
 * T. Yamakawa, Y. Dobashi, M. Okabe, K. Iwasaki, T. Yamamoto, [Computer Simulation of Furniture Layout when Moving from One House to Another](https://dl.acm.org/doi/10.1145/3154353.3154356), Proc. of SCCG, pp. 4:1--4:8, 2017.
 * K. Iwasaki, Y. Dobashi, M. Okabe, [Example-based Synthesis of Three-dimensional Clouds from Photographs](https://dl.acm.org/doi/10.1145/3095140.3095168), Proc. of Computer Graphics International (short paper), pp. 28:1--28:6, 2017.
 * Y. Dobashi, K. Iwasaki, M. Okabe, T. Ijiri, H. Todo, [Inverse Appearance Modeling of Interwoven Cloth](https://link.springer.com/article/10.1007/s00371-017-1455-9), The Visual Computer, Vol. 35, No. 2, pp. 175--190, 2017.
-
 * 鶴賀淳樹, 岩崎 慶, マルチグリッド法のためのNサイクルの提案，Visual Computing/グラフィクスとCAD合同シンポジウム2017(ポスター発表) 2017/6.
 * 岡⽥ 航輔, 岩崎 慶  線形変換された余弦分布を⽤いた効率的な相互反射計算, 情報処理学会関西支部G-23, p. 1-2, 2017/9. 
 * 岩崎 慶, 名畑 豪祐, 関与媒質のレンダリングのための誤差推定法, コンピュータグラフィクスとビジュアル情報学研究会, Vol. 2017-CG-168, No. 8, pp.1-6, 2017/11.
@@ -103,7 +100,6 @@ draft: false
 * Y. Dobashi, T. Ijiri, H. Todo, K. Iwasaki, M. Okabe, S. Nishimura, [Measuring Microstructures Using Confocal Laser-Scanning Microscopy for Estimating Surface Roughness](https://doi.org/10.1145/2945078.2945106), SIGGRAPH 2016 Poster, pages 28:1, 2016.
 * R. Enotani, S. Yasuaki, K. Iwasaki, Y. Dobashi, T. Nishita, Importance Caching for Homogeneous Participating Media, IEVC2017. 
 * P. Namo, K. Iwasaki, Y. Dobashi, Efficient Adaptive GPU Path Tracing, IEVC2017.
-
 * 櫻井 快勢, 楽 詠灝, 金森 由博, 岩崎 慶, 土橋 宜典, 西田 友是, 複数画像を再現可能な反射板設計, Visual Computing/グラフィクスとCAD 合同シンポジウム 2016/6. **(GCAD賞)**
 * 柏木彰, 溝口智博, 岩崎慶, Physically-Accurate Fur Reflectance: Modeling, Measurement and Renderingの実装報告, 第164回研究発表会 CG技術の実装と数理 2016.
 * 上西直人, 佐藤周平, 岩崎慶, 西田友是, 領域削減の自動化によるWavelet Turbulenceの効率化, 情報処理学会第79会全国大会 2X-06, 2017/03. **(学生奨励賞)**
@@ -116,7 +112,6 @@ draft: false
 * Y. Dobashi, Y. Shibukawa, M. Tada, S. Sato, K. Iwasaki, T. Yamamoto, [An Interactive Editing System for Visual Appearances of Fire and Explosions](http://dx.doi.org/10.2312/egsh.20151012), EUROGRAPHICS 2015 short paper, pp. 49--52, 2015.
 * H. Yoshida, K. Nabata, K. Iwasaki, Y. Dobashi, T. Nishita, [Adaptive Importance Caching for Many-light Rendering](http://wscg.zcu.cz/WSCG2015/!_2015_Journal_WSCG-No-1.pdf), Journal of WSCG, Vol. 23, No. 1, pp. 65--72, 2015.
 * T. Ishikawa, Y. Yue, T. Watanabe, K. Iwasaki, Y. Dobashi, M. Kakimoto, K. Kondo, T. Nishita, Visual Simulation of Glazed Frost Using Hybrid Heat Calculation, IIEEJ Transactions on Image Electronics and Visual Computing Vol.3 No.2, pp.136--142, 2015.
-
 * 佐藤 周平, 土橋 宜典, 楽 詠灝, 岩崎 慶, 西田 友是, ベクトルポテンシャルを用いた流体流れ場の編集, Visual Computing/グラフィクスとCAD 合同シンポジウム 2015/6.
 * 名畑 豪祐, 岩崎 慶, 土橋 宜典, 西田 友是, VPL サンプリングのための効率的な可視関数の確率的評価, Visual Computing/グラフィクスとCAD合同シンポジウム 2015/6.
 * 岩崎 慶，土橋宜典, 岡部 誠, 山本 強，写真を用いた雲のモデリング，画像関連学会連合会 秋季大会, 2015/11.
@@ -124,18 +119,17 @@ draft: false
 * 榎谷亮祐, 岩崎 慶, キャッシュ点を用いた関与媒質の多光源レンダリング，画像関連学会連合会 秋季大会, 2015/11.
 * 仲北和弘, 岩崎 慶，間接光を考慮したピクセルアートのシェーディング手法，画像関連学会連合会 秋季大会，2015/11.
 * 井尻敬，岩崎慶，岡部誠，藤堂英樹，土橋宜典，西村智，Namo Podee，マイクロストラクチャからのBRDFの推定，ビジュアルコンピューティングワークショップ2015.
+  
 ### 2014
 * K. Iwasaki, K. Mizutani, Y. Dobashi, T. Nishita, [Interactive Cloth Rendering of Microcylinder Appearance Model under Environment Lighting](https://doi.org/10.1111/cgf.12302), Computer Graphics Forum (Eurographics 2014), Vol. 33, No. 2, pp.333--340, 2014.
 * S. Sato, Y. Dobashi, K. Iwasaki. H. Ochiai, T. Yamamoto, T. Nishita, An Optimization Approach for Designing Fluid Flow Fields, Computer Graphics International 2014, short paper.
-* Y. Yue, K. Iwasaki, B.-Y. Chen, Y. Dobashi, T. Nishita, [Poisson-based Continuous Surface Generation for Goal-based Caustics](https://doi.org/10.1145/2580946), ACM Transactions on Graphics, Vol. 33, No. 3, pp. 31:1--31:7, 2014 (presented at SIGGRAPH 2014). 
+* Y. Yue, K. Iwasaki, B.-Y. Chen, Y. Dobashi, T. Nishita, [Poisson-based Continuous Surface Generation for Goal-based Caustics](https://doi.org/10.1145/2580946), ACM Transactions on Graphics, Vol. 33, No. 3, pp. 31:1--31:7, 2014 (presented at SIGGRAPH 2014).
 * S. Sato, Y. Dobashi, K. Iwasaki, H. Ochiai, T. Yamamoto, T. Nishita, [Generating Various Flow Fields using Principal Component Analysis](https://doi.org/10.1145/2614217.2630575), SIGGRAPH 2014 posteri, pages. 9:1, 2014.
 * T. Ishikawa, Y. Yue, T. Watanabe, K. Iwasaki, Y. Dobashi, M. Kakimoto, K. Kondo, T. Nishita, Visual Simulation of Glazed Frost Taking into Account Supercooled State, IEVC2014, 2014.
 * S. Sato, Y. Dobashi, K. Iwasaki, H. Ochiai, T. Yamamoto, T. Nishita, [Deformation of 2D Flow Fields Using Stream Functions](https://doi.org/10.1145/2669024.2669039), SIGGRAPH ASIA Technical Brief 2014, pp. 4:1--4:4, 2014.
 *  K. Mizutani, K. Iwasaki, [Importance Sampling for Cloth Rendering under Environment Light](https://link.springer.com/chapter/10.1007/978-4-431-55483-7_14), Symposium Mathematical Progress in Expressive Image Synthesis (MEIS) 2014, pp. 81--88, 2014.
-
 * 佐藤 周平, 土橋 宜典, 岩崎 慶, 落合 啓之, 山本 強，ラプラシアン固有関数を用いた流体の流れ場のインタラクティブなデザイン手法，電子情報通信学会 論文誌D Vol.J97-D No.9 pp.1528-1536, 2014.
 * 名畑豪祐，岩崎慶，土橋宜典，西田友是，レイサンプリングによる効率的な分割統治法を用いたレイトレーシング，情報処理学会論文誌，Vol. 55, No. 12, pp. 2559-2568, 2014.
-
 * 名畑豪祐, 岩崎慶, 土橋宜典，西田友是，多光源レンダリングのための効率的な可視関数の確率的評価法，VC/GCAD合同シンポジウム2014, 2014/06.
 * 岩崎慶, マイクロシリンダモデルを用いた布の高速レンダリング，第155回グラフィクスとCAD研究会 (EG2014招待講演), 2014/06.
 * 佐藤 周平, 土橋 宜典, 楽 詠灝, 岩崎 慶, 西田 友是, ベクトルポテンシャルを用いた3 次元流れ場の編集, VCWS2014.
@@ -150,8 +144,7 @@ draft: false
 * T. Ishikawa, Y. Yue, T. Watanabe, K. Iwasaki, Y. Dobashi, M. Kakimoto, K. Kondo, T. Nishita, [Visual Simulation of Glazed Frost](https://doi.org/10.1145/2503385.2503400), SIGGRAPH 2013 Poster, pages 14:1, 2013.
 * H. Otsu, Y. Yue, Q. Hou, K. Iwasaki, Y. Dobashi, T. Nishita, [Replica Exchange Light Transport on Relaxed Distributions](https://doi.org/10.1145/2503385.2503501), SIGGRAPH 2013 Poster, pages 106:1, 2013.
 * M. Shinya, Y. Dobashi, K. Iwasaki, M. Shiraishi, T. Nishita, A Simplified Plane-parallel Scattering Model for Rendering Densely Distributed Objects such as Foliage, Journal of Information Processing, Vol. 21, No. 2, pp. 349-357, 2013.
-* T. Ishikawa, Y. Yue, K. Iwasaki, Y. Dobashi, T. Nishita, Visual Simulation of Magnetic Fluid Using a Procedural Approach for Spikes Shape, Computer Vision, Imaging, and Computer Graphics. Theory and Application, pp. 112-126, 2013. 
-
+* T. Ishikawa, Y. Yue, K. Iwasaki, Y. Dobashi, T. Nishita, Visual Simulation of Magnetic Fluid Using a Procedural Approach for Spikes Shape, Computer Vision, Imaging, and Computer Graphics. Theory and Application, pp. 112-126, 2013.
 * 八木貴志，岩崎慶，氷結による亀裂のビジュアルシミュレーション，情報処理学会全国大会，4ZC-8，2014/3.
 * 仲北和弘，岩崎慶，非等方性球面ガウス関数を用いた環境マップの近似手法，情報処理学会全国大会，2ZC-6, 2014/3.
 * 川口貴大，岩崎慶，クラスタ主成分分析による符号付き球面距離関数の圧縮，情報処理学会全国大会，2ZC-5, 2014/3.
@@ -162,15 +155,13 @@ draft: false
 * 佐藤 周平，土橋 宜典，岩崎 慶，山本 強，落合 啓之，流体の流れ場のインタラクティブなデザイン，VC/GCAD合同シンポジウム2013．
  
 ### 2012
-* K. Iwasaki, Y. Dobashi, T. Nishita, [Interactive Bi-scale Editing of Highly Glossy Materials](https://doi.org/10.1145/2366145.2366163), ACM Transactions on Graphics (SIGGRAPH ASIA 2012), Vol. 31, No. 6, pp. 144:1--144:7, 2012. 
-* K. Iwasaki, W. Furuya, Y. Dobashi, T. Nishita, [Real-time Rendering of Dynamic Scenes under All-frequency Lighting using Integral Spherical Gaussian](https://doi.org/10.1111/j.1467-8659.2012.03052.x), Computer Graphics Forum(Eurographics 2012), Vol. 31, No. 2, pp. 727-734, 2012. 
-* Y. Yue, K. Iwasaki, B.Y. Chen, Y. Dobashi, T. Nishita, [Pixel Art with Refracted Light by Rearrangeable Sticks](https://doi.org/10.1111/j.1467-8659.2012.03036.x), Computer Graphics Forum(Eurographics 2012), Vol. 31, No.2, pp. 575-582, 2012.  
+* K. Iwasaki, Y. Dobashi, T. Nishita, [Interactive Bi-scale Editing of Highly Glossy Materials](https://doi.org/10.1145/2366145.2366163), ACM Transactions on Graphics (SIGGRAPH ASIA 2012), Vol. 31, No. 6, pp. 144:1--144:7, 2012.
+* K. Iwasaki, W. Furuya, Y. Dobashi, T. Nishita, [Real-time Rendering of Dynamic Scenes under All-frequency Lighting using Integral Spherical Gaussian](https://doi.org/10.1111/j.1467-8659.2012.03052.x), Computer Graphics Forum(Eurographics 2012), Vol. 31, No. 2, pp. 727-734, 2012.
+* Y. Yue, K. Iwasaki, B.Y. Chen, Y. Dobashi, T. Nishita, [Pixel Art with Refracted Light by Rearrangeable Sticks](https://doi.org/10.1111/j.1467-8659.2012.03036.x), Computer Graphics Forum(Eurographics 2012), Vol. 31, No.2, pp. 575-582, 2012.
 * T. Nishino, K. Iwasaki, Y. Dobashi, T. Nishita, [Visual Simulation of Freezing Ice with Air Bubbles](https://doi.org/10.1145/2407746.2407747), SIGGRAPH ASIA 2012, Technical Brief, pp. 1:1--1:4, 2012.
 * T. Ishikawa, Y. Yue, K. Iwasaki, Y. Dobashi, T. Nishita, "Visual Simulation of Magnetic Fluid Taking into Account Dynamic Deformation in Spikes", IEVC2012, 2012.
 * T. Ishikawa, Y. Yue, K. Iwasaki, Y. Dobashi, T. Nishita, "Visual Simulation of Magnetic Fluids", GRAPP 2012, pp. 319--327, 2012.
-
 * 古家 亙，岩崎 慶，土橋 宜典，西田 友是: 球近似と符号付き球面距離関数による 動的シーンのリアルタイムレンダリング，情報処理学会論文誌，Vol. 53, No. 7, 2012.
-
 * 北出晋一, 岩崎慶, 仮想照明を考慮したMRシーンのレンダリング, 電子情報通信学会, 2013.
 * 平岡勇作, 岩崎 慶, 粒状物体と布の連成シミュレーション，電子情報通信学会，2013.
 * 水谷一貴, 岩崎 慶, 環境照明下における布のレンダリング, 情報処理学会 関西支部大会 2012 G-18.
