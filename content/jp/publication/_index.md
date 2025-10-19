@@ -15,7 +15,7 @@ draft: false
 * Zhang Tingyu，岩崎 慶，拡散マイクロフレーク位相関数の球面調和関数表現，画像電子学会第53回年次大会，S6-5, 2025/08/27．
 * 岩崎 慶，BRDFのパラメータフィッティングに関する一検討，画像電子学会第53回年次大会，PO-11, 2025/08/26．
 * Zhang Tingyu，岩崎 慶，球面調和関数を利用したSGGXマイクロフレーク散乱位相関数の解析計算法，VC2025 ポスター，2025/09/08.
-* Xu Mingrui，岩崎 慶，コサインローブを用いた多角形指向性光源のリアルタイムシェーディング，VC2025 ポスター，2025/09/08. 
+* Xu Mingrui，岩崎 慶，コサインローブを用いた多角形指向性光源のリアルタイムシェーディング，VC2025 ポスター，2025/09/08 **(学生奨励賞)**. 
 
 ### 2024年度
 * M. Hikichi, K. Iwasaki, [Separation of Reflection Components for Measured Spectral BRDFs](https://doi.org/10.1145/3670947.3670953), Graphics Interface 2024, Article No. 20, pp. 1-9, 2024.
