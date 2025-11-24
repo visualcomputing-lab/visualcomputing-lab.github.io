@@ -18,7 +18,7 @@ draft: false
 * Y. Dobashi, N. Ishikawa, K. Iwasaki, [Efficient Visualization of Light Pollution for the Night Sky](https://dl.acm.org/doi/10.1145/3618337), ACM Transactions on Graphics (Proc. of SIGGRAPH ASIA 2023), Vol. 42, No. 6, pp. 219:1--219:11, 2023.
 
 ### 2022
-* K. Nabata, K. Iwasaki, [Adaptive Irradiance Sampling for Many-Light Rendering of Subsurface Scattering](https://ieeexplore.ieee.org/document/9380921), IEEE Transactions on Visualizations and Computer Graphics, Vol. 28, No. 10, pp. 3324--3335, 2022. 
+* K. Nabata, K. Iwasaki, [Adaptive Irradiance Sampling for Many-Light Rendering of Subsurface Scattering](https://ieeexplore.ieee.org/document/9380921), IEEE Transactions on Visualizations and Computer Graphics, Vol. 28, No. 10, pp. 3324--3335, 2022. [[project]](https://visualcomputing-lab.github.io/projects_/tvcg2021/) 
 * Y. Shibaike, K, Iwasaki, [Optical Parameter Estimation for Hair and Fur using Differentiable Rendering](https://dl.acm.org/doi/10.1145/3550340.3564221), ACM SIGGRAPH ASIA 2022 Technical Communications, pp. 3:1--3:4, 2022
 * S. Fuji, S. Sato, K. Iwasaki, Y. Dobashi, S. Gao, Z. Tang, [Rendering of Scratched Transparent Materials using Precomputed SV-BSDFs](https://dl.acm.org/doi/abs/10.1145/3532719.3543207), ACM SIGGRAPH 2022 Poster, pp. 42:1--42:2, 2022.
 
@@ -26,7 +26,7 @@ draft: false
 * H. Okuno, K. Iwasaki, [Binary Space Partitioning Visibility Tree for Polygonal and Environment Light Rendering](https://link.springer.com/article/10.1007/s00371-021-02181-8), The Visual Computer (CGI2021), Vol. 29, No. 7, pp. 2499--2511, 2021.
 
 ### 2020
-* K. Nabata, K. Iwasaki, Y. Dobashi, [Two-stage Resampling for Bidirectional Path Tracing using Multiple Light Sub-paths](https://doi.org/10.1111/cgf.14139), Computer Graphics Forum (PG2020), Vol. 39, No. 7, pp. 219--230, 2020. 
+* K. Nabata, K. Iwasaki, Y. Dobashi, [Two-stage Resampling for Bidirectional Path Tracing using Multiple Light Sub-paths](https://doi.org/10.1111/cgf.14139), Computer Graphics Forum (PG2020), Vol. 39, No. 7, pp. 219--230, 2020. [[project]](https://visualcomputing-lab.github.io/projects_/pg2020/)
 * N. Podee, N. Max, K. Iwasaki, Y. Dobashi, [Temporal and Spatial Anti-aliasing for Rendering Reflections on Water Waves](https://link.springer.com/article/10.1007/s41095-021-0204-1), Computational Visual Media, Vol. 7, pp. 201--215, 2021.
 
 ### 2019
