@@ -6,7 +6,7 @@ draft: false
 ---
 ### 2025
 * M. Xu, K. Iwasaki, Double/Triple-Axis Moments for Real-time Polygonal Light Shading, SIGGRAPH ASIA Technical Communications (to appear), 2025.
-* K. Iwasaki, Y. Dobashi, [Spherical Lighting with Spherical Harmonics Hessian](https://dl.acm.org/doi/10.1145/3721238.3730689), SIGGRAPH Conference Papers 2025, pp.33:1-33:10, 2025. [project]() [code](https://github.com/kiwasaki/shh_code_generator)
+* K. Iwasaki, Y. Dobashi, [Spherical Lighting with Spherical Harmonics Hessian](https://dl.acm.org/doi/10.1145/3721238.3730689), SIGGRAPH Conference Papers 2025, pp.33:1-33:10, 2025. [[project]](https://visualcomputing-lab.github.io/projects_/sig2025/) [[code]](https://github.com/kiwasaki/shh_code_generator)
 * L. Wang, K. Iwasaki, Importance Sampling of BCSDF Derivatives, Eurographics Short Paper, 2025.
 
 ### 2024
@@ -33,7 +33,7 @@ draft: false
 * H. Sakai, K. Nabata, S. Yasuaki, K. Iwasaki, [A Method for Estimating the Errors in Many-light Rendering with Supersampling](https://link.springer.com/article/10.1007/s41095-019-0137-0), Computational Visual Media, Vol. 5, pp. 1--10, 2019. 
 * N. Podee, N. Max, K. Iwasaki, Y. Dobashi, [Temporal and Spatial Anti-aliasing for Rendering Reflection on a Water Surface](https://dl.acm.org/citation.cfm?id=3338599), SIGGRAPH 2019 Posters, pp. 50:1--50:2, 2019. 
 * H. Okuno, K. Iwasaki, [Binary Space Partitioning Visibility Tree for Polygonal Light Rendering](https://dl.acm.org/doi/10.1145/3355088.3365153), SIGGRAPH ASIA 2019 Technical Briefs, pp. 79--82, 2019.
-* K. Nabata, K. Iwasaki, Y. Dobashi, [Resampling-aware Weighting Functions for Bidirectional Path Tracing using Multiple Light Sub-paths](https://doi.org/10.1145/3338994), ACM Transactions on Graphics, Vol. 39, No. 2, Article No. 15, pp. 15:1--15:11, 2020. [project]() [[code](https://github.com/kiwasaki/simple_ris_bpt)]
+* K. Nabata, K. Iwasaki, Y. Dobashi, [Resampling-aware Weighting Functions for Bidirectional Path Tracing using Multiple Light Sub-paths](https://doi.org/10.1145/3338994), ACM Transactions on Graphics, Vol. 39, No. 2, Article No. 15, pp. 15:1--15:11, 2020. [[project]](https://visualcomputing-lab.github.io/projects_/tog2020/) [[code](https://github.com/kiwasaki/simple_ris_bpt)]
 
 ### 2018
 * K. Sakurai, Y. Dobashi, K. Iwasaki, T. Nishita, [Fabricating Reflectors for Displaying Multiple Images](https://dl.acm.org/citation.cfm?id=3201400), ACM Transactions on Graphics (SIGGRAPH2018), Vol. 37, No. 4, pp. 158:1--158:10, 2018. 
