@@ -4,8 +4,9 @@ subtitle: "publication list"
 date: 2025-05-04
 draft: false
 ---
+
 ### 2025
-* M. Xu, K. Iwasaki, Double/Triple-Axis Moments for Real-time Polygonal Light Shading, SIGGRAPH ASIA Technical Communications (to appear), 2025.
+* M. Xu, K. Iwasaki, [Double/Triple-Axis Moments for Real-time Polygonal Light Shading](https://doi.org/10.1145/3757376.3771384), SIGGRAPH ASIA Technical Communications, pp. 21:1-21:4, 2025.
 * K. Iwasaki, Y. Dobashi, [Spherical Lighting with Spherical Harmonics Hessian](https://dl.acm.org/doi/10.1145/3721238.3730689), SIGGRAPH Conference Papers 2025, pp.33:1-33:10, 2025. [[project]](https://visualcomputing-lab.github.io/projects_/sig2025/) [[code]](https://github.com/kiwasaki/shh_code_generator)
 * L. Wang, K. Iwasaki, Importance Sampling of BCSDF Derivatives, Eurographics Short Paper, 2025.
 
