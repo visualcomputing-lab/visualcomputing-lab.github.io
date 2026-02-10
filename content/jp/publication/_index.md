@@ -7,7 +7,7 @@ draft: false
 
 ### 2025年度
 
-* M. Xu, K. Iwasaki, Double/Triple-Axis Moments for Real-time Polygonal Light Shading, SIGGRAPH ASIA Technical Communications, 2025 (to appear).
+* M. Xu, K. Iwasaki, Double/Triple-Axis Moments for Real-time Polygonal Light Shading, SIGGRAPH ASIA Technical Communications, 2025.
 * K. Iwasaki, Y. Dobashi, [Spherical Lighting with Spherical Harmonics Hessian](https://doi.org/10.1145/3721238.3730689), Proc. of SIGGRAPH Conference Papers 2025, pp. 33:1-33:10, 2025.
 * L. Wang, K. Iwasaki, Importance Sampling of BCSDF Derivatives, Eurographics Short Paper, 2025.
 * 小松 英彦，馬場 美香，金成 慧，岩崎 慶，サル下頭側皮質ニューロンにおける物体の透明感知覚と関係する物理要因の表現，第48回日本神経科学大会，2P-332, 2025/07/25.
@@ -15,7 +15,14 @@ draft: false
 * Zhang Tingyu，岩崎 慶，拡散マイクロフレーク位相関数の球面調和関数表現，画像電子学会第53回年次大会，S6-5, 2025/08/27．
 * 岩崎 慶，BRDFのパラメータフィッティングに関する一検討，画像電子学会第53回年次大会，PO-11, 2025/08/26．
 * Zhang Tingyu，岩崎 慶，球面調和関数を利用したSGGXマイクロフレーク散乱位相関数の解析計算法，VC2025 ポスター，2025/09/08.
-* Xu Mingrui，岩崎 慶，コサインローブを用いた多角形指向性光源のリアルタイムシェーディング，VC2025 ポスター，2025/09/08 **(学生奨励賞)**. 
+* Xu Mingrui，岩崎 慶，コサインローブを用いた多角形指向性光源のリアルタイムシェーディング，VC2025 ポスター，2025/09/08 **(学生奨励賞)**.
+* 荒川 耀平，岩崎 慶，光の遮蔽を考慮したHyperDreamerによる3次元モデルの作成，映像表現・芸術フォーラム, 2026/03/02.
+* 酒井 瑛士，岩崎 慶，Dominant Directionを導入した球面調和関数の指数表現による鏡面反射の精度向上，映像表現・芸術フォーラム, 2026/03/02.
+* 羽田 明日香，岩崎 慶，障害物を考慮したストランドを用いた木のモデリング，映像表現・芸術フォーラム, 2026/03/02.
+* 梅原 慶哉，岩崎 慶，多面体プロキシジオメトリを用いたGaussian Splattingのための高速なレイトレーシング，映像表現・芸術フォーラム, 2026/03/02.
+* 中川 皓介，岩崎 慶，ハッシュグリッドを用いた光源側経路リザーバによる大域照明，映像表現・芸術フォーラム, 2026/03/02.
+* 三浦 康司，岩崎 慶，関与媒質のスタイル化シェーディング，映像表現・芸術フォーラム, 2026/03/02.
+* 宮内 智志，岩崎 慶，動的な影のMotion Vectorを使用したMotion Adaptive Shading, 2026/03/02.
 
 ### 2024年度
 * M. Hikichi, K. Iwasaki, [Separation of Reflection Components for Measured Spectral BRDFs](https://doi.org/10.1145/3670947.3670953), Graphics Interface 2024, Article No. 20, pp. 1-9, 2024.
