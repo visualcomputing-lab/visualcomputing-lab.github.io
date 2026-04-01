@@ -19,24 +19,28 @@ alternatelocales:
     - keiiwasaki _at_ acm.org 
     - kiwasaki _at_ mail.saitama-u.ac.jp 
   
-#### M2
-- Yohei Arakawa
-- Kosuke Nakagawa
+#### D1 
 - [Xu Mingrui](https://asurudo.top/s/KPBP46Mcr)
 - Zhang Tingyu
 
-#### M1
+#### M2
 - Tomoya Kozuki 
 - Risa Matsuda
 - Hiroto Kaburagi
 - Koji Miura
 
-#### B4
-- Kengo Yamamoto
+#### M1
 - Asuka Hada
 - Eiji Sakai
 - Tomoyuki Miyauchi
 - Keiya Umehara
+
+#### B4
+- Yuki Koyanagi
+- Kaito Sunouchi
+- Giichi Tamori
+- Kiyomi Tsukamoto
+- Haruma Yachi
 
 ### Address
 255 Shimo-Okubo, Sakura-ku, Saitama, 338-8570, Japan.  <br>
