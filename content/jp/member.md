@@ -21,24 +21,28 @@ alternatelocales:
     - [KAKEN](https://nrid.nii.ac.jp/ja/nrid/1000090379610/)
     - kiwasaki __atmark__ mail.saitama-u.ac.jp
     - keiiwasaki __atmark__ acm.org 
-#### M2
-- 荒川 耀平
-- 中川 皓介
+#### D1
 - [徐 明鋭](https://asurudo.top/s/KPBP46Mcr)
 - 張 汀雨
 
-#### M1
+#### M2
 - 小築 知弥 
 - 松田 理沙
 - 鏑木 嘉人
 - 三浦 康司
 
-#### B4
-- 山本 健吾
+#### M1
 - 羽田 明日香
 - 酒井 瑛士
 - 宮内 智志
 - 梅原 慶哉
+
+#### B4
+- 小柳 友羽輝
+- 須内 海斗
+- 田森 義一
+- 塚本 清美
+- 谷内 遥真
 
 ### 住所 
 〒338-8570 埼玉県さいたま市桜区下大久保255 <br>
