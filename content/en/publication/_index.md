@@ -4,6 +4,10 @@ subtitle: "publication list"
 date: 2025-05-04
 draft: false
 ---
+### 2026
+* M. Baba, K. Kanari, K. Iwasaki, H. Komatsu, 
+Interaction of optical parameters in the perception of transparency/translucency and their neural representation in the visual cortex,
+Journal of Vision (to appear), 2026.
 
 ### 2025
 * M. Xu, K. Iwasaki, [Double/Triple-Axis Moments for Real-time Polygonal Light Shading](https://doi.org/10.1145/3757376.3771384), SIGGRAPH ASIA Technical Communications, pp. 21:1-21:4, 2025.
