@@ -5,6 +5,9 @@ date: 2025-05-04
 draft: false
 ---
 
+### 2026年度
+* 
+
 ### 2025年度
 
 * M. Xu, K. Iwasaki, Double/Triple-Axis Moments for Real-time Polygonal Light Shading, SIGGRAPH ASIA Technical Communications, 2025.
@@ -22,7 +25,7 @@ draft: false
 * 梅原 慶哉，岩崎 慶，多面体プロキシジオメトリを用いたGaussian Splattingのための高速なレイトレーシング，映像表現・芸術フォーラム, 2026/03/02.
 * 中川 皓介，岩崎 慶，ハッシュグリッドを用いた光源側経路リザーバによる大域照明，映像表現・芸術フォーラム, 2026/03/02.
 * 三浦 康司，岩崎 慶，関与媒質のスタイル化シェーディング，映像表現・芸術フォーラム, 2026/03/02.
-* 宮内 智志，岩崎 慶，動的な影のMotion Vectorを使用したMotion Adaptive Shading, 2026/03/02.
+* 宮内 智志，岩崎 慶，動的な影のMotion Vectorを使用したMotion Adaptive Shading, 映像表現・芸術フォーラム, 2026/03/02.
 
 ### 2024年度
 * M. Hikichi, K. Iwasaki, [Separation of Reflection Components for Measured Spectral BRDFs](https://doi.org/10.1145/3670947.3670953), Graphics Interface 2024, Article No. 20, pp. 1-9, 2024.
