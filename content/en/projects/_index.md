@@ -106,7 +106,7 @@ K. Nabata, K. Iwasaki, Y. Dobashi, T. Nishita<br>
 <img src="./img/sig2014.jpg" align="center" width="160" height="120">
 </td>
 <td width="80%" height="120">
-Poisson-Based Continuous Surface Generation for Goal-Based Caustics,
+Poisson-Based Continuous Surface Generation for Goal-Based Caustics, <br>
 Y. Yue, K. Iwasaki, B.Y. Chen, Y. Dobashi, T. Nishita<br>
 <b>ACM Transactions on Graphics (presented at SIGGRAPH 2014)</b>
 </td>
