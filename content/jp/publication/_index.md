@@ -1,12 +1,12 @@
 ---
 title: "業績"
 subtitle: "publication list"
-date: 2025-05-04
+date: 2026-07-20
 draft: false
 ---
 
 ### 2026年度
-* 
+* M. Baba, K. Kanari, K. Iwasaki, H. Komatsu, [Interaction of optical parameters in the perception of transparency/translucency and their neural representation in the visual cortex](https://jov.arvojournals.org/article.aspx?articleid=2811824), Journal of Vision, Vol.~26, No.~4, 2026. 
 
 ### 2025年度
 
