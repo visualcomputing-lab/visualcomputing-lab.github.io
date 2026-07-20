@@ -1,5 +1,5 @@
 ---
-title: Visual Computing Laboratory at Saitama University
+title: ビジュアルコンピューティング研究室(VCL)
 date: 2024-05-22
 author: Admin
 description: home
@@ -18,15 +18,16 @@ description: home
 </script>
 
 <div class="slider">
+<img src="./fig/tog2020.png" width="400" height="240" alt="">
+<img src="./fig/tvcg2021.png" width="400" height="240" alt="">
+<img src="./fig/gi24npfa.png" width="400" height="240" alt="">
+<img src="./fig/gi24separate.png" width="400" height="240" alt="">
+<img src="./fig/sig2025.jpg" width="400" height="240" alt="">
 <img src="./fig/PG10.jpg" width="400" height="240" alt="">
 <img src="./fig/SGA2012.jpg" width="400" height="240" alt="">
 <img src="./fig/EG2012.jpg" width="400" height="240" alt="">
 <img src="./fig/HPG2013.jpg" width="400" height="240" alt="">
 <img src="./fig/pg2016.png" width="400" height="240" alt="">
-<img src="./fig/tog2020.png" width="400" height="240" alt="">
-<img src="./fig/tvcg2021.png" width="400" height="240" alt="">
-<img src="./fig/gi24npfa.png" width="400" height="240" alt="">
-<img src="./fig/gi24separate.png" width="400" height="240" alt="">
 </div>
 
 ビジュアルコンピューティング研究室(VCL)は，埼玉大学 大学院理工学研究科(工学部情報工学科)に所属する研究室です．

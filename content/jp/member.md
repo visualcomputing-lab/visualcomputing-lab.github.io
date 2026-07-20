@@ -1,5 +1,5 @@
 ---
-title: Member
+title: 構成員
 #date: 2024-03-23 
 #description: About Visual Computing Laboratory 
 draft: false

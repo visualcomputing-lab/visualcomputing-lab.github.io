@@ -1,6 +1,6 @@
 ---
-title: Research Projects
-data: 2024-03-23
+title: "研究紹介"
+data: 2026-07-20
 ---
 <style>
 td {
