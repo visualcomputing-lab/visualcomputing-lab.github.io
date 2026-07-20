@@ -2,7 +2,7 @@
 title: "Visual Computing Laboratory"
 baseURL: "https://visualcomputing-lab.github.io"
 theme: "github.com/frjo/hugo-theme-zen/v4"
-locale: "en"
+locale : "en-US"
 defaultContentLanguage: "en"
 pluralizelisttitles: false
 removePathAccents: true
@@ -58,7 +58,7 @@ params:
   sidebar: false
   submitted: true
 
-locale: en-US
+#locale: en-US
 languages:
   en:
     weight: 1
