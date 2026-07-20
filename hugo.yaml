@@ -65,6 +65,8 @@ languages:
     locale: en 
     label: "English"
     contentDir: content/en
+    params:
+      description: "Visual Computing Laboratory at Saitama University."
     menu:
       main:
         - Name: "Home"
@@ -114,6 +116,8 @@ languages:
         #- Name: "CV"
         #  weight: 12
         #  pageRef: "cv"
+    params:
+      description: "埼玉大学ビジュアルコンピューティング研究室"
 
 module:
   imports:
