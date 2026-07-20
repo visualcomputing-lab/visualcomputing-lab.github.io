@@ -20,7 +20,7 @@ vertical-align: middle;
 Spherical Lighting with Spherical Harmonics Hessian<br>
 K. Iwasaki, Y. Dobashi<br>
 <b>SIGGRAPH Conference Proceeding 2025</b> <br>
-<a href="../pdf/tog2023_light_pollution.pdf"><i class="fa-solid fa-file-pdf"></i></a><a href="../projects_/sig2025"><i class="fa-solid fa-globe"></i></a>
+<a href="../pdf/sig2025.pdf"><i class="fa-solid fa-file-pdf"></i></a><a href="../projects_/sig2025"><i class="fa-solid fa-globe"></i></a>
 </td>
 </tr>
 
