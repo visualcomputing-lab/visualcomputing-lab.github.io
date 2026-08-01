@@ -1,6 +1,6 @@
 ---
 title: ビジュアルコンピューティング研究室(VCL)
-date: 2024-05-22
+date: 2026-08-01
 author: Admin
 description: home
 ---
@@ -45,6 +45,7 @@ VCLでは博士後期課程 (Ph. D. candidate) の学生を募集しておりま
 
 ### News
 
+- 2026/07/24 CEDEC2026において[球面調和関数の新展開](https://github.com/vclsu/spherical-harmonics-cedec2026)というタイトルで岩崎が発表しました．
 - 2026/03/02 M2荒川君，中川君，B4羽田さん，酒井君，宮内君，梅原君が映像表現・芸術科学フォーラム2026で発表しました．中川君が優秀発表賞(口頭)を受賞しました．
 - 2025/10/07 M2徐君の研究がSIGGRAPH ASIA 2025 Technical Communicationsに採択されました．
 - 2025/09/10 Visual Computing 2025において，M2徐君と張さんがポスター発表しました．徐君は学生奨励賞を受賞しました．
