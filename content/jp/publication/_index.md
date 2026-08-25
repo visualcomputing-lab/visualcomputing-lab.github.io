@@ -7,8 +7,8 @@ draft: false
 
 ### 2026年度
 * M. Baba, K. Kanari, K. Iwasaki, H. Komatsu, [Interaction of optical parameters in the perception of transparency/translucency and their neural representation in the visual cortex](https://jov.arvojournals.org/article.aspx?articleid=2811824), Journal of Vision, Vol. 26, No. 4, 2026.
-* 三浦 康司，岩崎 慶，輪郭と透過性を保持した煙のスタイル化シェーディング，Visual Computing 2026 (口頭発表Long), 2026.  
-* 鏑木 嘉人，岩崎 慶，クラスタ主成分分析を用いた3D Gaussian Splattingモデルの圧縮, Visual Computing 2026 (口頭発表Short), 2026. 
+* 三浦 康司，岩崎 慶，輪郭と透過性を保持した煙のスタイル化シェーディング，VC2026 (口頭発表Long), 2026.  
+* 鏑木 嘉人，岩崎 慶，クラスタ主成分分析を用いた3D Gaussian Splattingモデルの圧縮, VC2026 (口頭発表Short), 2026. 
 
 ### 2025年度
 
